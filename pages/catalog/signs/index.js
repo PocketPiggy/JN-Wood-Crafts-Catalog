@@ -16,10 +16,14 @@ export default function SignCollection() {
           />
         </div>
         <h1> stuff</h1>
-        <p>
-          askdfjlasdfjkasdkjf
-
-        </p>
+        <p>askdfjlasdfjkasdkjf</p>
+        <div className="cards-container">
+          <Card cardData={SelectCard("signs", "")} />
+          <Card cardData={SelectCard("signs", "")} />
+          <Card cardData={SelectCard("signs", "")} />
+          <Card cardData={SelectCard("signs", "")} />
+          <Card cardData={SelectCard("signs", "")} />
+        </div>
       </div>
     </>
   );

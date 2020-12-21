@@ -6,15 +6,11 @@ import ImageGallery from "react-image-gallery";
 export default function ParentAndChild() {
   const images = [
     {
-      original: "/images/page/misc/cellphoneholder/cell_phone_holder1.jpg",
+      original: "/images/page/signs/parent_and_child/parent_child1.jpg",
       thumbnail: "https://picsum.photos/id/1018/250/150/",
     },
     {
-      original: "/images/page/misc/cellphoneholder/cell_phone_holder.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/cell_phone_holder2.jpg",
+      original: "/images/page/signs/parent_and_child/parent_child.jpg",
       thumbnail: "https://picsum.photos/id/1018/250/150/",
     },
   ];
@@ -24,26 +20,18 @@ export default function ParentAndChild() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Parent & Child</h2>
-        <div className="product-price">$19.99</div>
+        <div className="product-price">$20</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
-            </p>
-            <p>
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur.
+              Just in time for the holidays or just because....we can create
+              something personalized for you or your loved one.
             </p>
           </div>
           <div className="product-list-container">
-            <p className="product-list-title">Excepteur sint occaecat:</p>
+            <p className="product-list-title">Product information:</p>
             <ul>
-              <li> cupidatat non proident </li>
-              <li> sunt in culpa qui </li>
-              <li> officia deserunt mollit anim id est laborum</li>
+              <li>Width: 1/4"</li>
             </ul>
           </div>
         </div>

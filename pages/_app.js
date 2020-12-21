@@ -1,7 +1,6 @@
 import Head from "next/head";
 import NavigationBar from "../components/NavigationBar";
 //import Footer from "../components/Footer";
-import Slider from "react-slick";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
 import {

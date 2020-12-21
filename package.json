@@ -1,5 +1,5 @@
 {
-  "name": "invoice-generator",
+  "name": "jn-wood-crafts-catalog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -21,7 +21,6 @@
     "react-bootstrap": "^1.4.0",
     "react-dom": "17.0.1",
     "react-image-gallery": "^1.0.8",
-    "react-slick": "^0.27.13",
     "sass": "^1.30.0"
   }
 }

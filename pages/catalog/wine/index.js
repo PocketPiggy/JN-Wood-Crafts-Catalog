@@ -1,5 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
+import Card from "../../../components/Card.js";
+import SelectCard from "../../../components/SelectCard.js";
 
 export default function WineCollection() {
   return (
@@ -18,8 +20,11 @@ export default function WineCollection() {
         <h1> stuff</h1>
         <p>
           askdfjlasdfjkasdkjf
-
         </p>
+        <div className="cards-container">
+          <Card cardData={SelectCard("wine", "wine-bottle-holder")} />
+          <Card cardData={SelectCard("wine", "cheese-board")} />
+        </div>
       </div>
     </>
   );

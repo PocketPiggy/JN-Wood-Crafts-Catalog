@@ -1,0 +1,35 @@
+{
+  "air-plant-holder": {
+    "title": "Air Plant holder",
+    "imgSrc": "/images/page/misc/airplantholder/IMG_9997.jpg",
+    "imgAlt": "Air plant holder with plant.",
+    "text": "Display your air plant.",
+    "price": "$5",
+    "aHref": "/catalog/misc/air_plant_holder"
+  },
+  "cell-phone-holder": {
+    "title": "Cell Phone holder",
+    "imgSrc": "/images/page/misc/cellphoneholder/cell_phone_holder1.jpg",
+    "imgAlt": "Two cell phone holders, with one holding a cell phone.",
+    "text": "Personalized cell phone holder.",
+    "price": "$20",
+    "aHref": "/catalog/misc/cell_phone_holder"
+  },
+
+  "essential-oils-15ml": {
+    "title": "Essential Oils Holder - 15ml",
+    "imgSrc": "/images/page/misc/essentialoils15ml/IMG_0009.jpg",
+    "imgAlt": "Essential oil holder with 5 slots.",
+    "text": "A perfect gift for any fan of essential oils.",
+    "price": "$10",
+    "aHref": "/catalog/misc/essential_oils_holder_15ml"
+  },
+  "essential-oils-5ml": {
+    "title": "Essential Oils Holder - 5ml",
+    "imgSrc": "/images/page/misc/essentialoils15ml/IMG_0011.jpg",
+    "imgAlt": "Essential oil holder with 5 slots.",
+    "text": "A perfect gift for any fan of essential oils.",
+    "price": "$10",
+    "aHref": "/catalog/misc/essential_oils_holder_5ml"
+  }
+}

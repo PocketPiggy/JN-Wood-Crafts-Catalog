@@ -1,5 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
+import Card from "../../../components/Card.js";
+import SelectCard from "../../../components/SelectCard.js";
 
 export default function ChristmasCollection() {
   return (
@@ -16,10 +18,15 @@ export default function ChristmasCollection() {
           />
         </div>
         <h1> stuff</h1>
-        <p>
-          askdfjlasdfjkasdkjf
-
-        </p>
+        <p>askdfjlasdfjkasdkjf</p>
+        <div className="cards-container">
+          <Card
+            cardData={SelectCard("christmas", "personalized-name-ornament")}
+          />
+          <Card cardData={SelectCard("christmas", "2020-covid-ornament")} />
+          <Card cardData={SelectCard("christmas", "custom-state-ornament")} />
+          <Card cardData={SelectCard("christmas", "diy-christmas-craft-kit")} />
+        </div>
       </div>
     </>
   );
