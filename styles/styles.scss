@@ -1,0 +1,160 @@
+//  Global file for app.
+
+//  Variables
+@import "_variables.scss";
+
+//  Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+//  React-image-gallery
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+
+//  Font awesome
+@import "./fontawesome/fontawesome";
+@import "./fontawesome/brands";
+@import "./fontawesome/regular";
+@import "./fontawesome/solid";
+@import "node_modules/@fortawesome/fontawesome-svg-core/styles";
+
+//  Bundled pages & components
+@import "./components/component.scss";
+@import "./page/page.scss";
+
+/*******************************************************************************
+  App css
+*******************************************************************************/
+
+html {
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+}
+
+div {
+  &.page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    margin: 4rem 0 6rem 0;
+
+    p {
+      width: 100%;
+    }
+
+    h2 {
+      &.product-title {
+        margin: 2rem 0 2rem 0;
+      }
+    }
+
+    .product-price {
+      font-size: 20px;
+      justify-self: center;
+      font-weight: bold;
+      margin: 2rem 0 2rem 0;
+    }
+
+    .product-description-container {
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      align-self: center;
+      width: 80%;
+
+      .product-description {
+        font-size: 16px;
+      }
+
+      .product-list-title {
+        font-weight: bold;
+        .product-description-list {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
+
+span {
+  .buffy-the-buffer {
+    margin: 6rem 0 0 0;
+  }
+}
+
+
+//  React Image Gallery
+
+/*
+.image-gallery, .image-gallery-content {
+  //max-width: 500px;
+  //max-height: 500px;
+}
+
+.image-gallery {
+    width: 70%;
+    height: auto;
+}
+
+.image-gallery-slide img {
+    width: 50%;
+    height: auto;
+    max-height: 50vh;
+    object-fit: fill;
+    overflow: hidden;
+    object-position: center center;
+}
+
+
+.fullscreen .image-gallery-slide img {
+    max-height: 100vh;
+}
+*/
+
+
+/*******************************************************************************
+  Media Queries
+*******************************************************************************/
+
+@media screen and (min-width: 1280px) {
+  h2 {
+    &.product-title {
+      margin: 2rem 0 2rem 0;
+    }
+  }
+
+  .product-price {
+    font-size: 20px;
+    justify-self: center;
+    font-weight: bold;
+    margin: 2rem 0 2rem 0;
+  }
+
+  .product-description-container {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    align-self: center;
+    width: 50% !important;
+
+    .product-description {
+      font-size: 16px;
+      width: 30vw;
+      margin: 1rem 2rem 1rem 0;
+    }
+
+    .product-list-container {
+      width: 20vw;
+      margin: 1rem 0rem 1rem 2rem;
+      .product-list-title {
+        font-weight: bold;
+        .product-description-list {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
