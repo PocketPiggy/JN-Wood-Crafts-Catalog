@@ -1,54 +1,28 @@
 div #nav-container {
-    .dropdown-item {
-        color: $text-color;
-        &:hover {
-            color: $background-color;
-            background-color: $hover-color;
-        }
-    }
-
-    .nav-link {
-        color: $text-color;
-        &:hover {
-            color: $hover-color;
-        }
-    }
-
-    .dropdown-menu {
-        background-color: $menu-color;
-    }
-
-    .navbar-brand {
-        color: $text-color;
-    }
-}
-
-/*
-#navigation-bar {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  overflow: hidden;
-  grid-gap: 1.5rem;
-  padding: 1.5rem 0 1.5rem 0;
-  background-color: $menu-color;
-  position: absolute;
-  top: 0%;
-  left: 0%;
-
-  .nav-item {
-    margin: 0 0 0 1rem;
+  .dropdown-item {
     color: $text-color;
-    a {
-      color: $text-color;
-    }
-    a:hover {
-      transition: color .5s ease-in-out infinite;
-      color: red;
+    &:hover {
+      color: $background-color;
+      background-color: $hover-color;
     }
   }
 
-  &.nav-home {
+  .nav-link {
+    color: $text-color;
+    &:hover {
+        color: $hover-color;
+    }
+  }
+
+  .dropdown-menu {
+    background-color: $menu-color;
+  }
+
+  .navbar-brand {
+    color: $text-color;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgb(255, 255, 255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/></svg>");
   }
 }
-*/

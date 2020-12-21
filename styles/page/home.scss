@@ -4,8 +4,39 @@
   justify-content: center;
   img {
     object-fit: contain;
+    height: auto;
+    width: 85vw;
   }
 }
 
+.landing-page-header {
+  margin: 4rem 0 1rem 0;
+}
+
+.welcome-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media screen and (min-width: 800px) {
+  .logo-container {
+    img {
+      object-fit: contain;
+      height: 374px;
+      width: 681px;
+    }
+  }
+  .welcome-text {
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+}
+
 @media screen and (min-width: 1280px) {
+  .welcome-text {
+    max-width: 60vw;
+  }
 }
