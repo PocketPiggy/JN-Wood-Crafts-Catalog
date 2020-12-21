@@ -36,17 +36,31 @@ export default function Contact() {
         <meta name="description" content="" />
         <link rel="canonical" href="" />
       </Head>
-      <section className="scroll-block" id="block-1">
-        <h1>Contact</h1>
-        <p className="contact-p">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          <a href="mailto:jnwoodcrafts@gmail.com">directly</a>. I respond
-          usually within 1-2 days.
-        </p>
+      <div className="page-content">
+        <div className="logo-container">
+          <img
+            src="/images/logo/small-logo.png"
+            alt="JN Wood Crafts logo."
+            title="Veteran owned and operated."
+          />
+        </div>
+
+        <div className="landing-page-header">
+          <h1>Contact</h1>
+        </div>
+        <span className="welcome-text">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            <a href="mailto:jnwoodcrafts@gmail.com"> {" "} directly</a>. 
+            We respond within 1 business day.
+          </p>
+        </span>
 
         <div id="contact-form">
-          <h3> Send us an email </h3>
+          <span className='send-email-header'>
+            <h3> Send us an email </h3>
+          </span>
           <form className="contact-form" onSubmit={sendEmailToSelf}>
             <input type="hidden" name="contact_number" />
 
@@ -54,7 +68,7 @@ export default function Contact() {
             <input
               type="text"
               name="Name"
-              placeholder="Your Name)"
+              placeholder="Your Name"
               className="contact-box"
             />
 
@@ -78,8 +92,8 @@ export default function Contact() {
             <input type="submit" value="Send" className="contact-submit" />
           </form>
         </div>
-      </section>
-      <span className="buffy-the-buffer"></span>
+        <span className="buffy-the-buffer"></span>
+      </div>
     </>
   );
 }

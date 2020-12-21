@@ -31,7 +31,6 @@ export default function NavigationBar() {
             <Nav.Link>Contact</Nav.Link>
           </Link>
 
-
           <Navbar.Toggle>
             <Hamburger
               toggled={isOpen}
@@ -110,6 +109,15 @@ export default function NavigationBar() {
                     Personalized Name ornament
                   </NavDropdown.Item>
                 </Link>
+                <Link
+                  href="/catalog/christmas/f_flake"
+                  passHref
+                >
+                  <NavDropdown.Item>
+                    F*** Flake
+                  </NavDropdown.Item>
+                </Link>
+
                 <Link href="/catalog/christmas/2020_covid_ornament" passHref>
                   <NavDropdown.Item>2020 Covid ornament</NavDropdown.Item>
                 </Link>
