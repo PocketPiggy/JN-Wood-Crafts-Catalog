@@ -37,6 +37,7 @@ export default function Covid2020Ornament() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

@@ -28,6 +28,7 @@ export default function MiscellaneousCollection() {
           <Card cardData={SelectCard("misc", "essential-oils-15ml")} />
           <Card cardData={SelectCard("misc", "essential-oils-5ml")} />
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

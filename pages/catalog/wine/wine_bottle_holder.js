@@ -54,6 +54,7 @@ export default function WineBottleHolder() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

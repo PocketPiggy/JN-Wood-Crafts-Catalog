@@ -156,10 +156,11 @@ span {
 }
 
 
-.fullscreen .image-gallery-slide img {
-    max-height: 100vh;
-}
 */
+.fullscreen .image-gallery-slide img {
+    max-height: 100vh !important;
+    height: 90vh !important;
+}
 
 /*******************************************************************************
   Media Queries
@@ -174,8 +175,17 @@ span {
   .image-gallery-slide {
     img {
       width: auto;
-      height: 50vw !important;
+      height: 50vw;
     }
+  }
+
+  .fullscreen .image-gallery-slide img {
+      max-height: 100vh !important;
+      height: 90vh !important;
+  }
+
+  .image-gallery.content.fullscreen {
+    height: 90vh !important;
   }
 
 /*

@@ -58,6 +58,7 @@ export default function Index() {
             commodo. Ultricies mi eget mauris pharetra.
           </p>
         </span>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

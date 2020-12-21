@@ -47,6 +47,7 @@ export default function EssentialOilHolder5ml() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

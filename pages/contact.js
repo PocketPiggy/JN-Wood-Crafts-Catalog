@@ -79,7 +79,6 @@ export default function Contact() {
           </form>
         </div>
       </section>
-
       <span className="buffy-the-buffer"></span>
     </>
   );

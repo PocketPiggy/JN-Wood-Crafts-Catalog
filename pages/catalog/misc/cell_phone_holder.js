@@ -38,6 +38,7 @@ export default function CellPhoneHolder() {
             <ul></ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

@@ -35,6 +35,7 @@ export default function ParentAndChild() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

@@ -47,6 +47,7 @@ export default function CheeseBoard() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

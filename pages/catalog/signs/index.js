@@ -29,6 +29,7 @@ export default function SignCollection() {
           <Card cardData={SelectCard("signs", "man-cave")} />
           <Card cardData={SelectCard("signs", "parent-and-child")} />
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

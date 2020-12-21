@@ -44,6 +44,7 @@ export default function AirPlantHolder() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

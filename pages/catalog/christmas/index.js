@@ -30,6 +30,7 @@ export default function ChristmasCollection() {
           <Card cardData={SelectCard("christmas", "custom-state-ornament")} />
           <Card cardData={SelectCard("christmas", "diy-christmas-craft-kit")} />
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

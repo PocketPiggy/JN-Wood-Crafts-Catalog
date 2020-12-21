@@ -41,6 +41,7 @@ export default function CustomStateOrnament() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

@@ -35,6 +35,7 @@ export default function Catalog() {
           <FatCard cardData={SelectCard("catalog", "misc")} />
           <FatCard cardData={SelectCard("catalog", "christmas")} />
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

@@ -26,6 +26,7 @@ export default function WineCollection() {
           <Card cardData={SelectCard("wine", "wine-bottle-holder")} />
           <Card cardData={SelectCard("wine", "cheese-board")} />
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );
