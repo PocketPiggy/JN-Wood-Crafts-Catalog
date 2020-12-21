@@ -7,15 +7,15 @@ export default function DiyChristmasCraftKit() {
   const images = [
     {
       original: "/images/page/christmas/diy_christmas_craft_kit/DIY_kits.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits.jpg",
     },
     {
       original: "/images/page/christmas/diy_christmas_craft_kit/DIY_kits1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits1.jpg",
     },
     {
       original: "/images/page/christmas/diy_christmas_craft_kit/DIY_kits2.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits2.jpg",
     },
   ];
   return (

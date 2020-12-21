@@ -7,11 +7,11 @@ export default function ParentAndChild() {
   const images = [
     {
       original: "/images/page/signs/parent_and_child/parent_child1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/parent_and_child/thumbs/parent_child1.jpg"
     },
     {
       original: "/images/page/signs/parent_and_child/parent_child.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/parent_and_child/thumbs/parent_child.jpg"
     },
   ];
   return (

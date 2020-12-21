@@ -7,19 +7,19 @@ export default function ManCave() {
   const images = [
     {
       original: "/images/page/signs/man_cave/MAN_CAVE.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/man_cave/thumbs/MAN_CAVE.jpg"
     },
     {
       original: "/images/page/signs/man_cave/MAN_CAVE1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/man_cave/thumbs/MAN_CAVE1.jpg"
     },
     {
       original: "/images/page/signs/man_cave/MAN_CAVE2.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/man_cave/thumbs/MAN_CAVE2.jpg"
     },
     {
       original: "/images/page/signs/man_cave/MAN_CAVE3.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/man_cave/thumbs/MAN_CAVE3.jpg"
     },
   ];
   return (
@@ -43,6 +43,7 @@ export default function ManCave() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

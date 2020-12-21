@@ -7,23 +7,23 @@ export default function EssentialOilHolder15ml() {
   const images = [
     {
       original: "/images/page/misc/essentialoils15ml/IMG_0009.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/essentialoils15ml/thumbs/IMG_0009.jpg",
     },
     {
       original: "/images/page/misc/essentialoils15ml/IMG_0010.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/essentialoils15ml/thumbs/IMG_0010.jpg",
     },
     {
       original: "/images/page/misc/essentialoils15ml/IMG_0011.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/essentialoils15ml/thumbs/IMG_0011.jpg",
     },
     {
       original: "/images/page/misc/essentialoils15ml/IMG_0012.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/essentialoils15ml/thumbs/IMG_0012.jpg",
     },
     {
       original: "/images/page/misc/essentialoils15ml/IMG_0013.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/essentialoils15ml/thumbs/IMG_0013.jpg",
     },
   ];
   return (

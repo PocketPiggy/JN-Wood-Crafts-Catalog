@@ -7,15 +7,15 @@ export default function CellPhoneHolder() {
   const images = [
     {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder1.jpg",
     },
     {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder.jpg",
     },
     {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder2.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder2.jpg",
     },
   ];
   return (

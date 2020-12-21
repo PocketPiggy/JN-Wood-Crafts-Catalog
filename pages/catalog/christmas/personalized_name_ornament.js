@@ -7,7 +7,7 @@ export default function PersonalizedNameOrnament() {
   const images = [
     {
       original: "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0596.jpg",
     },
   ];
   return (

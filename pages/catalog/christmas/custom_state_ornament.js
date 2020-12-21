@@ -7,7 +7,7 @@ export default function CustomStateOrnament() {
   const images = [
     {
       original: "/images/page/christmas/custom_state_ornament/ornament_first_xmas_TN.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/christmas/custom_state_ornament/thumbs/ornament_first_xmas_TN.jpg",
     },
   ];
   return (

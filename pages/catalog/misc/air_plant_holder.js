@@ -7,16 +7,16 @@ export default function AirPlantHolder() {
   const images = [
     {
       original: "/images/page/misc/airplantholder/IMG_0006.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_0006.jpg",
     },
 
     {
       original: "/images/page/misc/airplantholder/IMG_0008.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_0008.jpg",
     },
     {
       original: "/images/page/misc/airplantholder/IMG_9997.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_9997.jpg",
     },
   ];
   return (

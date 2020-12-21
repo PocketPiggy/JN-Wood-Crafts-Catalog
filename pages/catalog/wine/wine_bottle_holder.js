@@ -7,19 +7,19 @@ export default function WineBottleHolder() {
   const images = [
     {
       original: "/images/page/wine/wineholders/wine_holder.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/wineholders/thumbs/wine_holder.jpg",
     },
     {
       original: "/images/page/wine/wineholders/wine_holder_1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/wineholders/thumbs/wine_holder_1.jpg",
     },
     {
       original: "/images/page/wine/wineholders/wine_holder2.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/wineholders/thumbs/wine_holder2.jpg",
     },
     {
       original: "/images/page/wine/wineholders/wine_holder3.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/wineholders/thumbs/wine_holder3.jpg",
     },
   ];
   return (

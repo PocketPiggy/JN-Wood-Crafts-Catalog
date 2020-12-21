@@ -7,15 +7,15 @@ export default function CheeseBoard() {
   const images = [
     {
       original: "/images/page/wine/cheeseboards/cheese_slicer.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer.jpg",
     },
     {
       original: "/images/page/wine/cheeseboards/cheese_slicer1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer1.jpg",
     },
     {
       original: "/images/page/wine/cheeseboards/cheese_slicer2.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer2.jpg",
     },
   ];
   return (

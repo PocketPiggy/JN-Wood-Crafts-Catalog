@@ -7,7 +7,7 @@ export default function Covid2020Ornament() {
   const images = [
     {
       original: "/images/page/christmas/2020_covid_ornament/ornament2020.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/christmas/2020_covid_ornament/thumbs/ornament2020.jpg",
     },
   ];
   return (

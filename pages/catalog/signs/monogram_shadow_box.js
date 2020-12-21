@@ -7,35 +7,31 @@ export default function MonogramShadowBox() {
   const images = [
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0551.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0551.jpg"
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0548.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0548.jpg"
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0584.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0584.jpg"
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0586.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
-    },
-    {
-      original: "/images/page/signs/monogram_shadow_box/IMG_0551.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0586.jpg"
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0536.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0536.jpg"
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0535.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0535.jpg"
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0421.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0421.jpg"
     },
   ];
   return (
@@ -67,6 +63,7 @@ export default function MonogramShadowBox() {
             </ul>
           </div>
         </div>
+        <span className="buffy-the-buffer" />
       </div>
     </>
   );

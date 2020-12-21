@@ -71,7 +71,7 @@ export default function MyApp({ Component, pageProps }) {
         <meta name="theme-color" content="#ffffff" />
       </Head>
       <div className="page-container">
-      <NavigationBar />
+        <NavigationBar />
         <Component {...pageProps} />
       </div>
       <Footer />

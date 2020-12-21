@@ -7,23 +7,23 @@ export default function SplitLetterMonogram() {
   const images = [
     {
       original: "/images/page/signs/split_letter_monogram/monogram.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram1.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram1.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram2.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram2.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram3.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram3.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram4.jpg",
-      thumbnail: "https://picsum.photos/id/1018/250/150/",
+      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram4.jpg",
     },
   ];
   return (
