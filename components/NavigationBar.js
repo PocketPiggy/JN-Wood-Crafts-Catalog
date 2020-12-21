@@ -23,6 +23,10 @@ export default function NavigationBar() {
             </Navbar.Brand>
           </Link>
 
+          <Link href="/catalog" passHref>
+            <Nav.Link>Catalog</Nav.Link>
+          </Link>
+
           <Navbar.Toggle>
             <Hamburger
               toggled={isOpen}
@@ -78,19 +82,28 @@ export default function NavigationBar() {
                   <NavDropdown.Item>Air Plant holder</NavDropdown.Item>
                 </Link>
                 <Link href="/catalog/misc/essential_oils_holder_5ml" passHref>
-                  <NavDropdown.Item>Essential Oils holder - 5ml</NavDropdown.Item>
+                  <NavDropdown.Item>
+                    Essential Oils holder - 5ml
+                  </NavDropdown.Item>
                 </Link>
                 <Link href="/catalog/misc/essential_oils_holder_15ml" passHref>
-                  <NavDropdown.Item>Essential Oils holder - 15ml</NavDropdown.Item>
+                  <NavDropdown.Item>
+                    Essential Oils holder - 15ml
+                  </NavDropdown.Item>
                 </Link>
               </NavDropdown>
 
-              <NavDropdown title="Christmas" id="christmas-drop">
+              <NavDropdown title="Holidays" id="christmas-drop">
                 <Link href="/catalog/christmas" passHref>
-                  <NavDropdown.Item>All Christmas</NavDropdown.Item>
+                  <NavDropdown.Item>All Holidays</NavDropdown.Item>
                 </Link>
-                <Link href="/catalog/christmas/personalized_name_ornament" passHref>
-                  <NavDropdown.Item>Personalized Name ornament</NavDropdown.Item>
+                <Link
+                  href="/catalog/christmas/personalized_name_ornament"
+                  passHref
+                >
+                  <NavDropdown.Item>
+                    Personalized Name ornament
+                  </NavDropdown.Item>
                 </Link>
                 <Link href="/catalog/christmas/2020_covid_ornament" passHref>
                   <NavDropdown.Item>2020 Covid ornament</NavDropdown.Item>
@@ -98,7 +111,10 @@ export default function NavigationBar() {
                 <Link href="/catalog/christmas/custom_state_ornament" passHref>
                   <NavDropdown.Item>Custom state ornament</NavDropdown.Item>
                 </Link>
-                <Link href="/catalog/christmas/diy_christmas_craft_kit" passHref>
+                <Link
+                  href="/catalog/christmas/diy_christmas_craft_kit"
+                  passHref
+                >
                   <NavDropdown.Item>DIY Christmas craft kit</NavDropdown.Item>
                 </Link>
               </NavDropdown>

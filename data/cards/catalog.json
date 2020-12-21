@@ -1,0 +1,30 @@
+{
+  "signs": {
+    "title": "Signs",
+    "imgSrc": "/images/page/signs/monogram_shadow_box/IMG_0586.jpg",
+    "imgAlt": "Monogram in frame casing on top of a wine barrel.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "link": "/catalog/signs"
+  },
+  "wine": {
+    "title": "Wine",
+    "imgSrc": "/images/page/wine/wineholders/wine_holder_1.jpg",
+    "imgAlt": "Three colored wine holder holding bottle of wine on top of a wine barrel.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "link": "/catalog/wine"
+  },
+  "misc": {
+    "title": "Miscellaneous Crafts",
+    "imgSrc": "/images/page/misc/cellphoneholder/cell_phone_holder1.jpg",
+    "imgAlt": "Two cell phone holders, with one holding a cell phone.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "link": "/catalog/misc"
+  },
+  "christmas": {
+    "title": "Christmas",
+    "imgSrc": "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
+    "imgAlt": "Named ornament with trees on it, on top of a wine barrel.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "link": "/catalog/christmas"
+  }
+}

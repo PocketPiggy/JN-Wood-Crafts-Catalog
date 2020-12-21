@@ -1,0 +1,190 @@
+//  Regular card for preparation pages
+.card-container {
+    display: flex;
+    height: $card-h;
+    width: $card-w;
+    justify-content: center;
+    text-align: center;
+    border-radius: $rounded-c;
+    background-color: $card-container;
+    box-shadow: $box-shadow;
+    padding-bottom: $padding-b;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: inherit;
+    align-items: center;
+    color: white;
+}
+
+.card-img {
+    width: inherit;
+    //object-fit: cover;
+    height: $img-h;
+    width: $img-w;
+    margin: $img-margin;
+    img {
+        //object-fit: cover;
+        border-radius: $rounded-c;
+        box-shadow: $img-shadow;
+        height: $img-h;
+        width: 100%;
+    }
+}
+
+.card-title {
+    width: calc(#{$card-w} - 1vw);
+    margin: $title-margin;
+    p {
+        width: inherit;
+        margin: 0 auto;
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+
+hr {
+    width: 24%;
+    opacity: 0.25;
+    border-top: 1px solid white;
+}
+
+.card-description {
+    width: calc(#{$card-w} - 2rem);
+    p {
+        font-size: 16px;
+        margin: 0 auto;
+    }
+}
+
+.card-price {
+    margin: 2rem 0 0 0;
+    font-weight: bold;
+}
+
+.holdr {
+    margin-bottom: 2rem;
+}
+
+.rbs-row {
+    margin: $buffy;
+    justify-content: space-between;
+}
+
+.rbs-row-2 {
+    justify-content: space-evenly;
+    margin: $buffy;
+}
+
+//  Wider cards for page selection
+
+.f-holdr {
+    margin-bottom: 2rem;
+}
+
+.f-rbs-row {
+    margin: $buffy;
+    justify-content: space-between;
+}
+
+.f-rbs-row-2 {
+    justify-content: space-evenly;
+    margin: $buffy;
+}
+
+.f-card-container {
+    width: 35rem;
+    height: 16rem;
+    border-radius: $rounded-c;
+    background-color: $card-container;
+    box-shadow: $box-shadow;
+    padding-bottom: $padding-b;
+}
+
+.f-card-content {
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    .hemi-1 {
+        height: inherit;
+        .f-card-img {
+            width: 15rem;
+            height: 16rem;
+            img {
+                //object-fit: contain;
+                width: inherit;
+                height: inherit;
+                border-radius: 2px 0 0 2px;
+            }
+            border-right: 5px solid black;
+        }
+    }
+    .hemi-2 {
+        position: relative;
+        .f-card-title {
+            margin-top: 1.25rem;
+            p {
+                //font-size: 1.5rem !important;
+                font-size: 1.5rem;
+                font-weight: bold;
+                text-align: center;
+            }
+        }
+        .f-card-description {
+            width: 95%;
+            margin: 0 auto;
+            p {
+            }
+        }
+        .f-card-link {
+            position: absolute;
+            bottom: 1rem;
+            right: 1rem;
+        }
+    }
+}
+
+.vl {
+    //border-right: 1px solid black;
+    //margin: 0 0.5rem 0 0;
+}
+
+@media screen and (max-width: 576px) {
+    .f-card-container {
+        width: 85vw !important;
+        height: 58vw !important;
+    }
+
+    .hemi-1 {
+        .f-card-img {
+            /*width: 24vw !important; */
+            width: 35vw !important;
+            height: 58vw !important;
+        }
+    }
+
+    .hemi-2 {
+        .f-card-title {
+            margin-top: 0.25rem !important;
+            p {
+                font-size: 16px !important;
+                border: 0 0 1px 0 solid green;
+            }
+        }
+        .card-text-seperator {
+            /*margin: .25rem 0 .25rem 0 !important;*/
+            display: none;
+        }
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .f-card-title {
+        p {
+            margin: 0 1rem 0 1rem;
+        }
+    }
+}

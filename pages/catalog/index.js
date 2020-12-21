@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
-
+import FatCard from "../../components/FatCard";
+import SelectCard from "../../components/SelectCard";
 
 export default function Catalog() {
   return (
@@ -28,6 +29,12 @@ export default function Catalog() {
             in. Blandit aliquam etiam erat velit scelerisque in.
           </p>
         </span>
+        <div className="fatcards-container-6">
+          <FatCard cardData={SelectCard("catalog", "signs")} />
+          <FatCard cardData={SelectCard("catalog", "wine")} />
+          <FatCard cardData={SelectCard("catalog", "misc")} />
+          <FatCard cardData={SelectCard("catalog", "christmas")} />
+        </div>
       </div>
     </>
   );

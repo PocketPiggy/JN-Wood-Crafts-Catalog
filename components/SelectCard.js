@@ -2,6 +2,7 @@ import wine from "../data/cards/wine.json";
 import misc from "../data/cards/misc.json";
 import signs from "../data/cards/signs.json";
 import christmas from "../data/cards/christmas.json";
+import catalog from "../data/cards/catalog.json";
 
 export default function SelectCard(page, card) {
     let result;
@@ -18,6 +19,9 @@ export default function SelectCard(page, card) {
             break;
         case "christmas":
             result = christmas;
+            break;
+        case "catalog":
+            result = catalog;
             break;
         default:
             result = "Something broke for SelectCard";

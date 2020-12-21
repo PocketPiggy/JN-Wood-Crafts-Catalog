@@ -1,6 +1,6 @@
 import Head from "next/head";
 import NavigationBar from "../components/NavigationBar";
-//import Footer from "../components/Footer";
+import Footer from "../components/Footer";
 
 import { library } from "@fortawesome/fontawesome-svg-core";
 import {
@@ -70,11 +70,11 @@ export default function MyApp({ Component, pageProps }) {
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
       </Head>
-      <NavigationBar />
       <div className="page-container">
+      <NavigationBar />
         <Component {...pageProps} />
       </div>
-      {/*<Footer /> */}
+      <Footer />
     </>
   );
 }

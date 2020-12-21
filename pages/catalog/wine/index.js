@@ -7,7 +7,7 @@ export default function WineCollection() {
   return (
     <>
       <Head>
-        <title>JN Wood Crafts - Catalog</title>
+        <title>JN Wood Crafts - Wine Accessories</title>
       </Head>
       <div className="page-content">
         <div className="logo-container">
@@ -17,9 +17,10 @@ export default function WineCollection() {
             title="Veteran owned and operated."
           />
         </div>
-        <h1> stuff</h1>
-        <p>
-          askdfjlasdfjkasdkjf
+        <h1 className="catalog-title"> Wine Accessories </h1>
+        <p className="catalog-category-description">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
         <div className="cards-container">
           <Card cardData={SelectCard("wine", "wine-bottle-holder")} />

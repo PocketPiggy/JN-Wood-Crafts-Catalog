@@ -33,6 +33,11 @@ body {
 }
 
 div {
+  &.page-container {
+    //min-height: 100%;
+    //position: relative;
+  }
+
   &.page-content {
     display: flex;
     flex-direction: column;
@@ -40,10 +45,18 @@ div {
     justify-content: center;
     align-content: center;
     justify-items: center;
-    margin: 1.5rem 0 4rem 0;
+    margin: 1.5rem 0 0 0;
+    position: relative;
+    padding-bottom: 5vh;
 
     p {
       width: 90%;
+    }
+
+    h1 {
+      &.catalog-title {
+        margin: 3rem 0 2rem 0;
+      }
     }
 
     h2 {
@@ -81,10 +94,21 @@ div {
 
 span {
   .buffy-the-buffer {
-    margin: 6rem 0 0 0;
+    margin: 6rem 0 6rem 0;
   }
 }
 
+/*******************************************************************************
+  Cards
+*******************************************************************************/
+
+.cards-container {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2rem;
+  margin: 3rem 0 1rem 0;
+}
 
 //  React Image Gallery
 
@@ -114,10 +138,19 @@ span {
 }
 */
 
-
 /*******************************************************************************
   Media Queries
 *******************************************************************************/
+
+@media screen and (max-width: 768px) {
+  .cards-container {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
+    grid-gap: 2rem;
+    margin: 3rem 0 1rem 0;
+  }
+}
 
 @media screen and (min-width: 992px) {
   h2 {

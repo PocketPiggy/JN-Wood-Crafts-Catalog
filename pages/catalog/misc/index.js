@@ -7,7 +7,7 @@ export default function MiscellaneousCollection() {
   return (
     <>
       <Head>
-        <title>JN Wood Crafts - Catalog</title>
+        <title>JN Wood Crafts - Misc. Crafts</title>
       </Head>
       <div className="page-content">
         <div className="logo-container">
@@ -17,8 +17,11 @@ export default function MiscellaneousCollection() {
             title="Veteran owned and operated."
           />
         </div>
-        <h1> stuff</h1>
-        <p>askdfjlasdfjkasdkjf</p>
+        <h1 className='catalog-title'> Miscellaneous Crafts</h1>
+        <p className="catalog-category-description">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
         <div className="cards-container">
           <Card cardData={SelectCard("misc", "cell-phone-holder")} />
           <Card cardData={SelectCard("misc", "air-plant-holder")} />
