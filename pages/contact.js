@@ -49,16 +49,16 @@ export default function Contact() {
           <h1>Contact</h1>
         </div>
         <span className="welcome-text">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            <a href="mailto:jnwoodcrafts@gmail.com"> {" "} directly</a>. 
-            We respond within 1 business day.
+          <p className="contact-text">
+            We're here to help and answer any question you might have. We look
+            forward to hearing from you. Feel free to contact us using this form
+            or <a href="mailto:jnwoodcrafts@gmail.com"> directly. </a>
+            We always respond within 1 business day.
           </p>
         </span>
 
         <div id="contact-form">
-          <span className='send-email-header'>
+          <span className="send-email-header">
             <h3> Send us an email </h3>
           </span>
           <form className="contact-form" onSubmit={sendEmailToSelf}>

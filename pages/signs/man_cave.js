@@ -32,8 +32,8 @@ export default function ManCave() {
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              The perfect gift for the Man Cave..... This can be personalized
-              with any icon.
+              The perfect gift for the Man Cave...  This can be personalized
+              with any symbol.
             </p>
           </div>
           <div className="product-list-container">

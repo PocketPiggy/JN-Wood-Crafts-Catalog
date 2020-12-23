@@ -4,7 +4,7 @@
     "imgSrc": "/images/cards/monogram_shadow_box/IMG_0586.jpg",
     "imgAlt": "Monogram in frame casing on top of a wine barrel.",
     "text": "Framed split letter monogram.",
-    "price": "$65",
+    "price": "$75",
     "aHref": "/signs/monogram_shadow_box"
   },
   "split-letter-monogram": {
@@ -17,7 +17,7 @@
   },
   "welcome": {
     "title": "Welcome",
-    "imgSrc": "/images/page/signs/welcome/IMG_9600.jpg",
+    "imgSrc": "/images/page/signs/welcome/welcome.jpg",
     "imgAlt": "Welcome sign with wreathe.",
     "text": "Perfect for the front door or hanging on your wall.",
     "price": "$40",
@@ -36,7 +36,7 @@
     "imgSrc": "/images/page/signs/parent_and_child/parent_child1.jpg",
     "imgAlt": "The word daddy with child names up front.",
     "text": "For you or your loved one.",
-    "price": "$20",
+    "price": "$25",
     "aHref": "/signs/parent_and_child"
   }
 }

@@ -50,6 +50,7 @@
     }
 }
 
+
 .contact-p {
     text-align: left;
     width: 55%;
@@ -104,5 +105,11 @@
                 box-shadow: $box-shadow;
             }
         }
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .contact-text {
+        width: 62% !important;
     }
 }

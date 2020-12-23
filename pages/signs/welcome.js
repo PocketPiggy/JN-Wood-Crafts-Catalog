@@ -6,26 +6,6 @@ import ImageGallery from "react-image-gallery";
 export default function Welcome() {
   const images = [
     {
-      original: "/images/page/signs/welcome/IMG_9594.jpg",
-      thumbnail: "/images/page/signs/welcome/thumbs/IMG_9594.jpg",
-    },
-    {
-      original: "/images/page/signs/welcome/IMG_9595.jpg",
-      thumbnail: "/images/page/signs/welcome/thumbs/IMG_9595.jpg",
-    },
-    {
-      original: "/images/page/signs/welcome/IMG_9596.jpg",
-      thumbnail: "/images/page/signs/welcome/thumbs/IMG_9596.jpg",
-    },
-    {
-      original: "/images/page/signs/welcome/IMG_9597.jpg",
-      thumbnail: "/images/page/signs/welcome/thumbs/IMG_9597.jpg",
-    },
-    {
-      original: "/images/page/signs/welcome/IMG_9600.jpg",
-      thumbnail: "/images/page/signs/welcome/thumbs/IMG_9600.jpg",
-    },
-    {
       original: "/images/page/signs/welcome/welcome.jpg",
       thumbnail: "/images/page/signs/welcome/thumbs/welcome.jpg",
     },
