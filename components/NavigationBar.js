@@ -24,11 +24,11 @@ export default function NavigationBar() {
           </Link>
 
           <Link href="/catalog" passHref>
-            <Nav.Link>Catalog</Nav.Link>
+            <Nav.Link><b>Catalog</b></Nav.Link>
           </Link>
 
           <Link href="/contact" passHref>
-            <Nav.Link>Contact</Nav.Link>
+            <Nav.Link><b>Contact</b></Nav.Link>
           </Link>
 
           <Navbar.Toggle>

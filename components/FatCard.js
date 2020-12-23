@@ -21,7 +21,7 @@ export default function Card(props) {
                     </div>
                     <div className="f-card-link">
                         <Link href={props.link} passHref>
-                            <Button variant="primary" className="btn-next">
+                            <Button className="btn-next">
                                 Browse
                             </Button>
                         </Link>

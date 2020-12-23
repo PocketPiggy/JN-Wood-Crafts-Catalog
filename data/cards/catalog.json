@@ -8,7 +8,7 @@
   },
   "wine": {
     "title": "Wine",
-    "imgSrc": "/images/page/wine/wineholders/wine_holder_1.jpg",
+    "imgSrc": "/images/cards/wineholders/wine_holder.jpg",
     "imgAlt": "Three colored wine holder holding bottle of wine on top of a wine barrel.",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "link": "/catalog/wine"

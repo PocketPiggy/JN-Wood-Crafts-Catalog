@@ -1,4 +1,3 @@
-import Button from "react-bootstrap/Button";
 import Link from "next/link";
 
 //  This pattern/flow for this Card component works like this:
