@@ -5,7 +5,7 @@
     "imgAlt": "Monogram in frame casing on top of a wine barrel.",
     "text": "Framed split letter monogram.",
     "price": "$65",
-    "aHref": "/catalog/signs/monogram_shadow_box"
+    "aHref": "/signs/monogram_shadow_box"
   },
   "split-letter-monogram": {
     "title": "Split Letter Monogram",
@@ -13,7 +13,7 @@
     "imgAlt": "Monogram of the letter T of the name Taylor.",
     "text": "Laser engraved split monogram letter.",
     "price": "$35",
-    "aHref": "/catalog/signs/split_letter_monogram"
+    "aHref": "/signs/split_letter_monogram"
   },
   "welcome": {
     "title": "Welcome",
@@ -21,7 +21,7 @@
     "imgAlt": "Welcome sign with wreathe.",
     "text": "Perfect for the front door or hanging on your wall.",
     "price": "$40",
-    "aHref": "/catalog/signs/welcome"
+    "aHref": "/signs/welcome"
   },
   "man-cave": {
     "title": "Man Cave",
@@ -29,7 +29,7 @@
     "imgAlt": "Man cave sign with the hammer icon on top.",
     "text": "For the Man Cave.",
     "price": "$45",
-    "aHref": "/catalog/signs/man_cave"
+    "aHref": "/signs/man_cave"
   },
   "parent-and-child": {
     "title": "Parent & Child",
@@ -37,6 +37,6 @@
     "imgAlt": "The word daddy with child names up front.",
     "text": "For you or your loved one.",
     "price": "$20",
-    "aHref": "/catalog/signs/parent_and_child"
+    "aHref": "/signs/parent_and_child"
   }
 }

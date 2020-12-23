@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
-import Card from "../../../components/Card.js";
-import SelectCard from "../../../components/SelectCard.js";
+import Card from "../../components/Card.js";
+import SelectCard from "../../components/SelectCard.js";
 
 export default function ChristmasCollection() {
   return (

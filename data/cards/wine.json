@@ -5,7 +5,7 @@
     "imgAlt": "Three colored wine holder holding bottle of wine on top of a wine barrel.",
     "text": "Simply engineered and a great gift.",
     "price": "$20",
-    "aHref": "/catalog/wine/wine_bottle_holder"
+    "aHref": "/wine/wine_bottle_holder"
   },
   "cheese-board": {
     "title": "Cheese Board",
@@ -13,6 +13,6 @@
     "imgAlt": "Two color cheese board with slicer, on top of a wine barrel.",
     "text": "Our cheese slicer is the perfect companion for our wine bottle holder.",
     "price": "$15",
-    "aHref": "/catalog/wine/cheese_board"
+    "aHref": "/wine/cheese_board"
   }
 }

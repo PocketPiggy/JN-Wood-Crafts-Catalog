@@ -5,7 +5,7 @@
     "imgAlt": "Ornament on christmas tree.",
     "text": "Hmmmm, it's been a crazy year",
     "price": "$7",
-    "aHref": "/catalog/christmas/2020_covid_ornament"
+    "aHref": "/christmas/2020_covid_ornament"
   },
   "custom-state-ornament": {
     "title": "Custom State ornament",
@@ -13,7 +13,7 @@
     "imgAlt": "Tennessee christmas ornament hanging on christmas tree.",
     "text": "Laser engraved with your choice of state.",
     "price": "$20",
-    "aHref": "/catalog/christmas/custom_state_ornament"
+    "aHref": "/christmas/custom_state_ornament"
   },
   "diy-christmas-craft-kit": {
     "title": "DIY Christmas Craft Kit",
@@ -21,7 +21,7 @@
     "imgAlt": "3 cut out unpainted cartoon reindeers.",
     "text": "Family friendly DYI craft kits",
     "price": "$3.99 / $9.99",
-    "aHref": "/catalog/christmas/diy_christmas_craft_kit"
+    "aHref": "/christmas/diy_christmas_craft_kit"
   },
   "personalized-name-ornament": {
     "title": "Personalized Name ornament",
@@ -29,6 +29,6 @@
     "imgAlt": "Named ornament with trees on it, on top of a wine barrel.",
     "text": "Personalized ornament made out of two layers.",
     "price": "$10",
-    "aHref": "/catalog/christmas/personalized_name_ornament"
+    "aHref": "/christmas/personalized_name_ornament"
   }
 }

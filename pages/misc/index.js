@@ -1,13 +1,13 @@
 import Link from "next/link";
 import Head from "next/head";
-import Card from "../../../components/Card.js";
-import SelectCard from "../../../components/SelectCard.js";
+import Card from "../../components/Card.js";
+import SelectCard from "../../components/SelectCard.js";
 
-export default function WineCollection() {
+export default function MiscellaneousCollection() {
   return (
     <>
       <Head>
-        <title>JN Wood Crafts - Wine Accessories</title>
+        <title>JN Wood Crafts - Misc. Crafts</title>
       </Head>
       <div className="page-content">
         <div className="logo-container">
@@ -17,14 +17,16 @@ export default function WineCollection() {
             title="Veteran owned and operated."
           />
         </div>
-        <h1 className="catalog-title"> Wine Accessories </h1>
+        <h1 className='catalog-title'> Miscellaneous Crafts</h1>
         <p className="catalog-category-description">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
         <div className="cards-container">
-          <Card cardData={SelectCard("wine", "wine-bottle-holder")} />
-          <Card cardData={SelectCard("wine", "cheese-board")} />
+          <Card cardData={SelectCard("misc", "cell-phone-holder")} />
+          <Card cardData={SelectCard("misc", "air-plant-holder")} />
+          <Card cardData={SelectCard("misc", "essential-oils-15ml")} />
+          <Card cardData={SelectCard("misc", "essential-oils-5ml")} />
         </div>
         <span className="buffy-the-buffer" />
       </div>
