@@ -27,6 +27,10 @@ export default function NavigationBar() {
             <Nav.Link><b>Contact</b></Nav.Link>
           </Link>
 
+          <Link href="/cardtest" passHref>
+            <Nav.Link>Card Test </Nav.Link>
+          </Link>
+
           <Navbar.Toggle>
             <Hamburger
               toggled={isOpen}
