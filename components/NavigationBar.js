@@ -109,14 +109,6 @@ export default function NavigationBar() {
                     Personalized Name ornament
                   </NavDropdown.Item>
                 </Link>
-                <Link
-                  href="/christmas/f_flake"
-                  passHref
-                >
-                  <NavDropdown.Item>
-                    F*** Flake
-                  </NavDropdown.Item>
-                </Link>
 
                 <Link href="/christmas/2020_covid_ornament" passHref>
                   <NavDropdown.Item>2020 Covid ornament</NavDropdown.Item>
