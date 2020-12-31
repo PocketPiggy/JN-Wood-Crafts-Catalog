@@ -18,15 +18,14 @@ export default function Index() {
           />
         </div>
         <div className="landing-page-header">
-          <h1> Catalog </h1>
+          <h1> Merchandise </h1>
         </div>
         <span className="welcome-text">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem
-            nulla pharetra diam sit amet nisl suscipit adipiscing bibendum.
-            Egestas sed sed risus pretium quam vulputate dignissim suspendisse
-            in. Blandit aliquam etiam erat velit scelerisque in.
+            Hi, we are James and Nancy. The JN behind the wood crafts. We are a
+            veteran-owned and operated business. We offer items from cornhole
+            board sets to handcrafted signs to laser cut items. Our products are
+            the perfect personalized gifts for your friends and family.
           </p>
         </span>
         <div className="fatcards-container-6">

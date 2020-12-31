@@ -19,8 +19,6 @@ export default function MiscellaneousCollection() {
         </div>
         <h1 className='catalog-title'> Miscellaneous Crafts</h1>
         <p className="catalog-category-description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
         <div className="cards-container">
           <Card cardData={SelectCard("misc", "cell-phone-holder")} />

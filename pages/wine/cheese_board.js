@@ -28,8 +28,13 @@ export default function CheeseBoard() {
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              Our cheese slicer is the perfect companion for our wine bottle
-              holder.
+              Make the perfect gift for a wedding, anniversary, birthday,
+              housewarming, or just as a surprise for the cook in your life.
+            </p>
+            <p>
+              It will be finished with food safe cutting board oil for excellent
+              protection (we do recommend that you reapply the oil as needed to
+              protect the wood).
             </p>
           </div>
           <div className="product-list-container">
@@ -44,6 +49,7 @@ export default function CheeseBoard() {
                 Please note each item is handmade varying in dimensions as well
                 as wood combinations.
               </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

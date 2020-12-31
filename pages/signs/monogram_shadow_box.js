@@ -7,31 +7,15 @@ export default function MonogramShadowBox() {
   const images = [
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0551.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0551.jpg"
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0551.jpg",
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0548.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0548.jpg"
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0548.jpg",
     },
     {
       original: "/images/page/signs/monogram_shadow_box/IMG_0584.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0584.jpg"
-    },
-    {
-      original: "/images/page/signs/monogram_shadow_box/IMG_0586.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0586.jpg"
-    },
-    {
-      original: "/images/page/signs/monogram_shadow_box/IMG_0536.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0536.jpg"
-    },
-    {
-      original: "/images/page/signs/monogram_shadow_box/IMG_0535.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0535.jpg"
-    },
-    {
-      original: "/images/page/signs/monogram_shadow_box/IMG_0421.jpg",
-      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0421.jpg"
+      thumbnail: "/images/page/signs/monogram_shadow_box/thumbs/IMG_0584.jpg",
     },
   ];
   return (
@@ -40,14 +24,14 @@ export default function MonogramShadowBox() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Monogram Shadow Box</h2>
-        <div className="product-price">$65</div>
+        <div className="product-price">$70</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              This shadow box showcases the popular laser cut split letter
-              monogram sign. The monogram letter can be personalized with a
-              first OR last name of your choice. Each piece is cut, sanded,
-              colored or stained, and sealed with a clear coat for protection.
+              This shadow box showcases the popular laser-cut split letter
+              monogram sign. The monogram letter is personalized with a first OR
+              last name of your choice. Each monogram is cut, sanded, stained,
+              and sealed with a clear coat for protection.
             </p>
           </div>
           <div className="product-list-container">
@@ -55,11 +39,14 @@ export default function MonogramShadowBox() {
             <ul>
               <li>Dimensions: 14" x 14""</li>
               <li>Monogram Sign made out ¼" wood</li>
-              <li>Hard wood shadow box frame</li>
+              <li>Hardwood shadow box frame</li>
+              <li>1/8" Plexiglass</li>
               <li>
                 As this item is personalized and made to order, no refunds or
-                exchanges are allowed.
+                exchanges are allowed TO As this item is customized and made to
+                order, no refunds or exchanges are allowed.
               </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

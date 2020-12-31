@@ -7,15 +7,18 @@ export default function CellPhoneHolder() {
   const images = [
     {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder1.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder1.jpg",
+      thumbnail:
+        "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder1.jpg",
     },
     {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder.jpg",
+      thumbnail:
+        "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder.jpg",
     },
     {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder2.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder2.jpg",
+      thumbnail:
+        "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder2.jpg",
     },
   ];
   return (
@@ -34,8 +37,15 @@ export default function CellPhoneHolder() {
           </div>
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
-            <li>Product Information: 6.5" h x 3.5"w x 4"w</li>
-            <ul></ul>
+            <ul>
+              <li>Product Information: 6.5" h x 3.5"w x 4"w</li>
+              <li>
+                As this item is personalized and made to order, no refunds or
+                exchanges are allowed TO As this item is customized and made to
+                order, no refunds or exchanges are allowed.
+              </li>
+              <li>Shipping and handling rates apply</li>
+            </ul>
           </div>
         </div>
         <span className="buffy-the-buffer" />

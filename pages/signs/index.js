@@ -19,8 +19,6 @@ export default function SignCollection() {
         </div>
         <h1 className="catalog-title">Signs</h1>
         <p className="catalog-category-description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
         <div className="cards-container">
           <Card cardData={SelectCard("signs", "monogram-shadow-box")} />

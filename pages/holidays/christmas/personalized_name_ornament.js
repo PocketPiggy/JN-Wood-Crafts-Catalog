@@ -6,8 +6,10 @@ import ImageGallery from "react-image-gallery";
 export default function PersonalizedNameOrnament() {
   const images = [
     {
-      original: "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
-      thumbnail: "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0596.jpg",
+      original:
+        "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
+      thumbnail:
+        "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0596.jpg",
     },
   ];
   return (
@@ -35,8 +37,10 @@ export default function PersonalizedNameOrnament() {
               </li>
               <li>
                 As this item is personalized and made to order, no refunds or
-                exchanges are allowed.
+                exchanges are allowed TO As this item is customized and made to
+                order, no refunds or exchanges are allowed.
               </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
-import Card from "../../components/Card.js";
-import SelectCard from "../../components/SelectCard.js";
+import Card from "../../../components/Card.js";
+import SelectCard from "../../../components/SelectCard.js";
 
 export default function ChristmasCollection() {
   return (
@@ -19,8 +19,6 @@ export default function ChristmasCollection() {
         </div>
         <h1 className="catalog-title"> Holidays </h1>
         <p className="catalog-category-description">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
         <div className="cards-container">
           <Card

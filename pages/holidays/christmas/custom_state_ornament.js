@@ -6,8 +6,10 @@ import ImageGallery from "react-image-gallery";
 export default function CustomStateOrnament() {
   const images = [
     {
-      original: "/images/page/christmas/custom_state_ornament/ornament_first_xmas_TN.jpg",
-      thumbnail: "/images/page/christmas/custom_state_ornament/thumbs/ornament_first_xmas_TN.jpg",
+      original:
+        "/images/page/christmas/custom_state_ornament/ornament_first_xmas_TN.jpg",
+      thumbnail:
+        "/images/page/christmas/custom_state_ornament/thumbs/ornament_first_xmas_TN.jpg",
     },
   ];
   return (
@@ -36,8 +38,10 @@ export default function CustomStateOrnament() {
               </li>
               <li>
                 As this item is personalized and made to order, no refunds or
-                exchanges are allowed.
+                exchanges are allowed TO As this item is customized and made to
+                order, no refunds or exchanges are allowed.
               </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

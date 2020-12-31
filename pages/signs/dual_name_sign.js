@@ -3,15 +3,15 @@ import Image from "next/image";
 import Link from "next/link";
 import ImageGallery from "react-image-gallery";
 
-export default function ParentAndChild() {
+export default function DualNameSign() {
   const images = [
     {
       original: "/images/page/signs/parent_and_child/parent_child1.jpg",
-      thumbnail: "/images/page/signs/parent_and_child/thumbs/parent_child1.jpg"
+      thumbnail: "/images/page/signs/parent_and_child/thumbs/parent_child1.jpg",
     },
     {
       original: "/images/page/signs/parent_and_child/parent_child.jpg",
-      thumbnail: "/images/page/signs/parent_and_child/thumbs/parent_child.jpg"
+      thumbnail: "/images/page/signs/parent_and_child/thumbs/parent_child.jpg",
     },
   ];
   return (
@@ -19,19 +19,26 @@ export default function ParentAndChild() {
       <Head></Head>
       <div className="page-content">
         <ImageGallery items={images} />
-        <h2 className="product-title">Parent & Child</h2>
-        <div className="product-price">$20</div>
+        <h2 className="product-title">Dual Name Sign</h2>
+        <div className="product-price">$25</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              Just in time for the holidays or just because....we can create
-              something personalized for you or your loved one.
+              Let us create something that is customized for your parent/child
+              or grandparent/grandchild or husband/wife. The possibilities are
+              endless.
             </p>
           </div>
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
-              <li>Width: 1/4"</li>
+              <li>Backboard dimensions: ***</li>
+              <li>Dual name portion ¼" wood</li>
+              <li>
+                As this item is customized and made to order, no refunds or
+                exchanges are allowed.
+              </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

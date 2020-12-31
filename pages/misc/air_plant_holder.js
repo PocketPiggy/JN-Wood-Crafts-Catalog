@@ -6,17 +6,16 @@ import ImageGallery from "react-image-gallery";
 export default function AirPlantHolder() {
   const images = [
     {
+      original: "/images/page/misc/airplantholder/IMG_9997.jpg",
+      thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_9997.jpg",
+    },
+    {
       original: "/images/page/misc/airplantholder/IMG_0006.jpg",
       thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_0006.jpg",
     },
-
     {
       original: "/images/page/misc/airplantholder/IMG_0008.jpg",
       thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_0008.jpg",
-    },
-    {
-      original: "/images/page/misc/airplantholder/IMG_9997.jpg",
-      thumbnail: "/images/page/misc/airplantholder/thumbs/IMG_9997.jpg",
     },
   ];
   return (
@@ -24,7 +23,7 @@ export default function AirPlantHolder() {
       <Head></Head>
       <div className="page-content">
         <ImageGallery items={images} />
-        <h2 className="product-title">Cell Phone Holder</h2>
+        <h2 className="product-title">Air Plant Holder</h2>
         <div className="product-price">$5</div>
         <div className="product-description-container">
           <div className="product-description">
@@ -41,6 +40,7 @@ export default function AirPlantHolder() {
               <li> Made out of 1/8" wood</li>
               <li> Hanger is not provided</li>
               <li> Air plant is not provided</li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

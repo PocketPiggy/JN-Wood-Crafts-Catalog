@@ -34,6 +34,9 @@ export default function Covid2020Ornament() {
                 Each piece is cut, sanded, and sealed with a clear coat for
                 protection.
               </li>
+              <li>
+                Shipping and handling rates apply
+              </li>
             </ul>
           </div>
         </div>

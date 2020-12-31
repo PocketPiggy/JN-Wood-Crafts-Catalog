@@ -51,9 +51,10 @@ export default function Contact() {
         <span className="welcome-text">
           <p className="contact-text">
             We're here to help and answer any question you might have. We look
-            forward to hearing from you. Feel free to contact us using this form
-            or <a href="mailto:jnwoodcrafts@gmail.com"> directly. </a>
-            We always respond within 1 business day.
+            forward to hearing from you. To contact us please fill out the form
+            below or contact us directly at
+            <a href="mailto:jnwoodcrafts@gmail.com"> jnwoodcrafts@gmail.com</a>
+            {" "}Reply responses are usually within one business day.
           </p>
         </span>
 

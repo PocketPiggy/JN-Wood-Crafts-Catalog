@@ -11,19 +11,23 @@ export default function SplitLetterMonogram() {
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram1.jpg",
-      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram1.jpg",
+      thumbnail:
+        "/images/page/signs/split_letter_monogram/thumbs/monogram1.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram2.jpg",
-      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram2.jpg",
+      thumbnail:
+        "/images/page/signs/split_letter_monogram/thumbs/monogram2.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram3.jpg",
-      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram3.jpg",
+      thumbnail:
+        "/images/page/signs/split_letter_monogram/thumbs/monogram3.jpg",
     },
     {
       original: "/images/page/signs/split_letter_monogram/monogram4.jpg",
-      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram4.jpg",
+      thumbnail:
+        "/images/page/signs/split_letter_monogram/thumbs/monogram4.jpg",
     },
   ];
   return (
@@ -44,13 +48,14 @@ export default function SplitLetterMonogram() {
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
-              <li>Dimensions: 10.5" x 10.5"</li>
+              <li>Dimensions: 11" x 11"</li>
               <li>Made out ¼" wood</li>
               <li>No hanger provided</li>
               <li>
-                As this item is personalized and made to order, no refunds or
+                As this item is customized and made to order, no refunds or
                 exchanges are allowed.
               </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

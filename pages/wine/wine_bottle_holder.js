@@ -50,6 +50,7 @@ export default function WineBottleHolder() {
                 item is handmade varying in dimensions as well as wood
                 combinations.
               </li>
+              <li>Shipping and handling rates apply</li>
               <li>NOTE: WINE NOT INCLUDED</li>
             </ul>
           </div>
