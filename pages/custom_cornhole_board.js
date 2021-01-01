@@ -38,6 +38,63 @@ export default function CustomCornholeBoard() {
       original: "/images/page/cornhole/IMG_0331.jpg",
       thumbnail: "/images/page/cornhole/thumbs/IMG_0331.jpg",
     },
+    {
+      original: "/images/page/cornhole/dolphin.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/dolphin.jpg",
+    },
+    {
+      original: "/images/page/cornhole/dolphin1.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/dolphin1.jpg",
+    },
+    {
+      original: "/images/page/cornhole/dolphin2.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/dolphin2.jpg",
+    },
+    {
+      original: "/images/page/cornhole/dolphin3.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/dolphin3.jpg",
+    },
+    {
+      original: "/images/page/cornhole/dolphin4.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/dolphin4.jpg",
+    },
+    {
+      original: "/images/page/cornhole/ghog.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/ghog.jpg",
+    },
+    {
+      original: "/images/page/cornhole/ghog1.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/ghog1.jpg",
+    },
+    {
+      original: "/images/page/cornhole/ghog2.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/ghog2.jpg",
+    },
+    {
+      original: "/images/page/cornhole/ghog3.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/ghog3.jpg",
+    },
+    {
+      original: "/images/page/cornhole/shawn.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/shawn.jpg",
+    },
+    {
+      original: "/images/page/cornhole/shawn1.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/shawn1.jpg",
+    },
+    {
+      original: "/images/page/cornhole/shawn2.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/shawn2.jpg",
+    },
+    {
+      original: "/images/page/cornhole/shawn3.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/shawn3.jpg",
+    },
+    {
+      original: "/images/page/cornhole/shawn4.jpg",
+      thumbnail: "/images/page/cornhole/thumbs/shawn4.jpg",
+    },
+
   ];
   return (
     <>
@@ -48,7 +105,9 @@ export default function CustomCornholeBoard() {
         <div className="product-price">Message for a quote </div>
         <div className="product-price">
           <Link href="/contact" passHref>
-            <Button className="btn-next" id="contact-quote-btn">Click here to request a quote</Button>
+            <Button className="btn-next" id="contact-quote-btn">
+              Click here to request a quote
+            </Button>
           </Link>
         </div>
         <div className="product-description-container">
