@@ -53,7 +53,7 @@ export default function Contact() {
             We're here to help and answer any question you might have. We look
             forward to hearing from you. To contact us please fill out the form
             below or contact us directly at
-            <a href="mailto:jnwoodcrafts@gmail.com"> jnwoodcrafts@gmail.com</a>
+            <a href="mailto:jnwoodcrafts@gmail.com?subject=JNWOOD CRAFTS - PRODUCT INQUIRY"> jnwoodcrafts@gmail.com</a>
             {" "}Reply responses are usually within one business day.
           </p>
         </span>
