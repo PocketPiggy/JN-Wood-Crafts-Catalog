@@ -21,28 +21,59 @@ export default function WineBottleHolder() {
       original: "/images/page/wine/wineholders/wine_holder3.jpg",
       thumbnail: "/images/page/wine/wineholders/thumbs/wine_holder3.jpg",
     },
+    {
+      original: "/images/page/wine/wineholders/IMG_0704.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0704.jpg",
+    },
+    {
+      original: "/images/page/wine/wineholders/IMG_0707.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0707.jpg",
+    },
+    {
+      original: "/images/page/wine/wineholders/IMG_0710.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0710.jpg",
+    },
+    {
+      original: "/images/page/wine/wineholders/IMG_0711.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0711.jpg",
+    },
+    {
+      original: "/images/page/wine/wineholders/IMG_0712.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0712.jpg",
+    },
+    {
+      original: "/images/page/wine/wineholders/IMG_0714.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0714.jpg",
+    },
+    {
+      original: "/images/page/wine/wineholders/IMG_0715.jpg",
+      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0715.jpg",
+    },
   ];
   return (
     <>
       <Head></Head>
       <div className="page-content">
         <ImageGallery items={images} />
-        <h2 className="product-title">Wine Bottle holder</h2>
-        <div className="product-price">$20</div>
+        <h2 className="product-title">Wine Bottle Holder</h2>
+        <div className="product-price">$25</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              We have created these unique, one-of-a-kind products that are hand
-              sanded and hand finished. This is a perfect gift for a hostess or
-              house warming. A simple yet tasteful decoration that looks great
-              anywhere.
+              Our wine bottle holders are certainly an eye-catcher! They are a
+              great way to display your favorite wine! Whether it's your
+              favorite wine of the month, hosting a dinner party, or get
+              together, our wine bottle holders turn regular wine into a piece
+              of art! These make excellent gifts for weddings, anniversaries,
+              bridal showers, hostess, and housewarming; an ideal family home
+              décor accent piece. Why NOT get one for yourself!
             </p>
           </div>
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
               <li>
-                Types of wood: Red oak, white oak, mahogany, cherry, maple,
+                Blends of wood: Red oak, white oak, mahogany, cherry, maple,
                 walnut, poplar
               </li>
               <li>

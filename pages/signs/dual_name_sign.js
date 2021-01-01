@@ -32,7 +32,7 @@ export default function DualNameSign() {
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
-              <li>Backboard dimensions: ***</li>
+              <li>Backboard dimensions: 12" x 5"</li>
               <li>Dual name portion ¼" wood</li>
               <li>
                 As this item is customized and made to order, no refunds or

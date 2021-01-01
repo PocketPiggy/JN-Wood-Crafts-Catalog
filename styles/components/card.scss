@@ -63,6 +63,9 @@ hr {
 .card-price {
     margin: 2rem 0 0 0;
     font-weight: bold;
+    p {
+        width: 100% !important;
+    }
 }
 
 .holdr {

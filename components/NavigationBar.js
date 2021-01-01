@@ -27,10 +27,6 @@ export default function NavigationBar() {
             <Nav.Link><b>Contact</b></Nav.Link>
           </Link>
 
-          <Link href="/cardtest" passHref>
-            <Nav.Link>Card Test </Nav.Link>
-          </Link>
-
           <Navbar.Toggle>
             <Hamburger
               toggled={isOpen}
@@ -52,11 +48,11 @@ export default function NavigationBar() {
                 <Link href="/signs/split_letter_monogram" passHref>
                   <NavDropdown.Item>Split letter monogram</NavDropdown.Item>
                 </Link>
-                <Link href="/signs/parent_and_child" passHref>
-                  <NavDropdown.Item>Parent & Child</NavDropdown.Item>
+                <Link href="/signs/dual_name_sign" passHref>
+                  <NavDropdown.Item>Dual Name Sign</NavDropdown.Item>
                 </Link>
-                <Link href="/signs/welcome" passHref>
-                  <NavDropdown.Item>Welcome</NavDropdown.Item>
+                <Link href="/signs/welcome_sign" passHref>
+                  <NavDropdown.Item>Welcome Sign</NavDropdown.Item>
                 </Link>
                 <Link href="/signs/man_cave" passHref>
                   <NavDropdown.Item>Man Cave</NavDropdown.Item>
@@ -72,6 +68,9 @@ export default function NavigationBar() {
                 </Link>
                 <Link href="/wine/cheese_board" passHref>
                   <NavDropdown.Item>Cheese Boards</NavDropdown.Item>
+                </Link>
+                <Link href="/wine/wine_cheese_combo" passHref>
+                  <NavDropdown.Item>Wine & Cheese Combo</NavDropdown.Item>
                 </Link>
               </NavDropdown>
 
@@ -98,11 +97,11 @@ export default function NavigationBar() {
               </NavDropdown>
 
               <NavDropdown title="Holidays" id="christmas-drop">
-                <Link href="/christmas" passHref>
+                <Link href="/holidays/christmas" passHref>
                   <NavDropdown.Item>All Holidays</NavDropdown.Item>
                 </Link>
                 <Link
-                  href="/christmas/personalized_name_ornament"
+                  href="/holidays/christmas/personalized_name_ornament"
                   passHref
                 >
                   <NavDropdown.Item>
@@ -110,14 +109,14 @@ export default function NavigationBar() {
                   </NavDropdown.Item>
                 </Link>
 
-                <Link href="/christmas/2020_covid_ornament" passHref>
+                <Link href="/holidays/christmas/2020_covid_ornament" passHref>
                   <NavDropdown.Item>2020 Covid ornament</NavDropdown.Item>
                 </Link>
-                <Link href="/christmas/custom_state_ornament" passHref>
+                <Link href="/holidays/christmas/custom_state_ornament" passHref>
                   <NavDropdown.Item>Custom state ornament</NavDropdown.Item>
                 </Link>
                 <Link
-                  href="/christmas/diy_christmas_craft_kit"
+                  href="/holidays/christmas/diy_christmas_craft_kit"
                   passHref
                 >
                   <NavDropdown.Item>DIY Christmas craft kit</NavDropdown.Item>

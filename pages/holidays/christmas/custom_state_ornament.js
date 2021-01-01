@@ -18,14 +18,15 @@ export default function CustomStateOrnament() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Custom State ornament</h2>
-        <div className="product-price">$20</div>
+        <div className="product-price">$10</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              This personalized state ornament is laser engraved with your
-              choice of state and customized saying such as, "First Christmas
-              In" as shown in the example. Each piece is cut, sanded and sealed
-              with a clear coat for protection.
+              Show your state pride with one of our wooden state customized
+              ornaments! This personalized state ornament is laser engraved with
+              your choice of state and customized saying such as, "First
+              Christmas In" as shown in the example. Each piece is cut, sanded,
+              and sealed with a clear coat for protection.
             </p>
           </div>
           <div className="product-list-container">
@@ -37,9 +38,8 @@ export default function CustomStateOrnament() {
                 Customized saying is limited to 20 characters (including spaces)
               </li>
               <li>
-                As this item is personalized and made to order, no refunds or
-                exchanges are allowed TO As this item is customized and made to
-                order, no refunds or exchanges are allowed.
+                As this item is customized and made to order, no refunds or
+                exchanges are allowed.
               </li>
               <li>Shipping and handling rates apply</li>
             </ul>

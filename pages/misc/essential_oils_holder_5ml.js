@@ -36,13 +36,12 @@ export default function EssentialOilHolder5ml() {
           <div className="product-list-container">
             <p className="product-list-title"> Product Information: </p>
             <ul>
-              <li>Dimensions: 8" x 2.5" x 2.5"</li>
+              <li>Dimensions: 8"L x 2.5"W x 2.5"H </li>
               <li>
                 This stand will hold 5 standard 5ml essential oil bottles.
               </li>
               <li>
-                Because this item is personalized and made to order, no refunds
-                or exchanges are allowed.
+                Shipping and handling rates apply
               </li>
             </ul>
           </div>

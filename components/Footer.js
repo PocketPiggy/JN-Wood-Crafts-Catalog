@@ -3,7 +3,7 @@ export default function Footer() {
     <>
       <div id="footer">
         <a>
-          <p>
+          <p className='jn-foot'>
             © 2020 J | N  Wood Crafts
           </p>
         </a>

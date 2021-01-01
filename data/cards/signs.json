@@ -31,12 +31,12 @@
     "price": "$45",
     "aHref": "/signs/man_cave"
   },
-  "parent-and-child": {
-    "title": "Parent & Child",
+  "dual-name-sign": {
+    "title": "Dual Name Sign",
     "imgSrc": "/images/page/signs/parent_and_child/parent_child1.jpg",
     "imgAlt": "The word daddy with child names up front.",
     "text": "For you or your loved one.",
     "price": "$25",
-    "aHref": "/signs/parent_and_child"
+    "aHref": "/signs/dual_name_sign"
   }
 }

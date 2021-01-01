@@ -32,7 +32,7 @@ export default function EssentialOilHolder15ml() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Essential Oils Holder - 15ml</h2>
-        <div className="product-price">$10</div>
+        <div className="product-price">$15</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
@@ -44,14 +44,11 @@ export default function EssentialOilHolder15ml() {
           <div className="product-list-container">
             <p className="product-list-title"> Product Information: </p>
             <ul>
-              <li>Dimensions: 8" x 2.5" x 2.5"</li>
+              <li>Dimensions: 8"L x 2.5"W x 2.5"H </li>
               <li>
                 This stand will hold 5 standard 15ml essential oil bottles.
               </li>
-              <li>
-                Because this item is personalized and made to order, no refunds
-                or exchanges are allowed.
-              </li>
+              <li>Shipping and handling rates apply</li>
             </ul>
           </div>
         </div>

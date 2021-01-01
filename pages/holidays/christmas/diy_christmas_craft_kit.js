@@ -7,15 +7,18 @@ export default function DiyChristmasCraftKit() {
   const images = [
     {
       original: "/images/page/christmas/diy_christmas_craft_kit/DIY_kits.jpg",
-      thumbnail: "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits.jpg",
+      thumbnail:
+        "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits.jpg",
     },
     {
       original: "/images/page/christmas/diy_christmas_craft_kit/DIY_kits1.jpg",
-      thumbnail: "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits1.jpg",
+      thumbnail:
+        "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits1.jpg",
     },
     {
       original: "/images/page/christmas/diy_christmas_craft_kit/DIY_kits2.jpg",
-      thumbnail: "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits2.jpg",
+      thumbnail:
+        "/images/page/christmas/diy_christmas_craft_kit/thumbs/DIY_kits2.jpg",
     },
   ];
   return (
@@ -24,7 +27,7 @@ export default function DiyChristmasCraftKit() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">DIY Christmas Craft Kit</h2>
-        <div className="product-price">$3.99 single, $9.99 three</div>
+        <div className="product-price">$3 for 1 / $15 for 6</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
@@ -40,6 +43,13 @@ export default function DiyChristmasCraftKit() {
               <li>Height: 5"</li>
               <li> Made with1/4" wood</li>
               <li>NO PAINT OR BRUSHES ARE INCLUDED</li>
+              <li>
+                As this item is customized and made to order, no refunds or
+                exchanges are allowed.
+              </li>
+              <li>
+                Shipping and handling rates apply
+              </li>
             </ul>
           </div>
         </div>

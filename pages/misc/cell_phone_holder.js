@@ -31,18 +31,22 @@ export default function CellPhoneHolder() {
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              Cell Phone Holder with an initial. Can be personalized with name
-              or saying.
+              Our simple, yet elegant cell phone holders can be used at work,
+              school, home, etc. and can be slipped easily into your handbag,
+              backpack, and whipped out at any time when needed. Made of 1/4"
+              thick wood that is stylishly designed, stable, and portable. It
+              allows your phone to stand horizontally or vertically for easy
+              viewing. A perfect gift choice for anyone who has a cell phone!
+              Customize one today!
             </p>
           </div>
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
-              <li>Product Information: 6.5" h x 3.5"w x 4"w</li>
+              <li>Product Information: 6.5"L x 3.5"W </li>
               <li>
-                As this item is personalized and made to order, no refunds or
-                exchanges are allowed TO As this item is customized and made to
-                order, no refunds or exchanges are allowed.
+                As this item is customized and made to order, no refunds or
+                exchanges are allowed.
               </li>
               <li>Shipping and handling rates apply</li>
             </ul>

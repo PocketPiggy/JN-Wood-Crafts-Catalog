@@ -42,9 +42,8 @@ export default function MonogramShadowBox() {
               <li>Hardwood shadow box frame</li>
               <li>1/8" Plexiglass</li>
               <li>
-                As this item is personalized and made to order, no refunds or
-                exchanges are allowed TO As this item is customized and made to
-                order, no refunds or exchanges are allowed.
+                As this item is customized and made to order, no refunds or
+                exchanges are allowed.
               </li>
               <li>Shipping and handling rates apply</li>
             </ul>

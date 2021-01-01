@@ -17,7 +17,7 @@ export default function SignCollection() {
             title="Veteran owned and operated."
           />
         </div>
-        <h1 className="catalog-title">Signs</h1>
+        <h1 className="catalog-title">Wooden Signs</h1>
         <p className="catalog-category-description">
         </p>
         <div className="cards-container">
@@ -25,7 +25,7 @@ export default function SignCollection() {
           <Card cardData={SelectCard("signs", "split-letter-monogram")} />
           <Card cardData={SelectCard("signs", "welcome")} />
           <Card cardData={SelectCard("signs", "man-cave")} />
-          <Card cardData={SelectCard("signs", "parent-and-child")} />
+          <Card cardData={SelectCard("signs", "dual-name-sign")} />
         </div>
         <span className="buffy-the-buffer" />
       </div>

@@ -22,8 +22,12 @@ export default function PersonalizedNameOrnament() {
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              Personalized ornament made out of two layers. Top layer is clear
-              coat protection with a black backer. Each piece is cut, sanded and
+              When looking for new ornaments to add to your collection, why not
+              go for a wooden look? Our personalized wooden Christmas ornaments
+              will go great with all the other ornaments on your tree! Customize
+              one or two for yourself, a friend, or a family member today! Each
+              ornament is made out of two layers. The top layer is clear coat
+              protection with a black backer. Each piece is cut, sanded, and
               sealed with a clear coat for protection.
             </p>
           </div>
@@ -36,9 +40,8 @@ export default function PersonalizedNameOrnament() {
                 Customized saying is limited to 15 characters (including spaces)
               </li>
               <li>
-                As this item is personalized and made to order, no refunds or
-                exchanges are allowed TO As this item is customized and made to
-                order, no refunds or exchanges are allowed.
+                As this item is customized and made to order, no refunds or
+                exchanges are allowed.
               </li>
               <li>Shipping and handling rates apply</li>
             </ul>

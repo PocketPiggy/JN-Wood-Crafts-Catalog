@@ -22,10 +22,11 @@ export default function Index() {
         </div>
         <span className="welcome-text">
           <p>
-            Hi, we are James and Nancy. The JN behind the wood crafts. We are a
-            veteran-owned and operated business. We offer items from cornhole
-            board sets to handcrafted signs to laser cut items. Our products are
-            the perfect personalized gifts for your friends and family.
+            Hi, we are James and Nancy. The "JN" behind the wood crafts. We are
+            a veteran-owned and operated business. We offer items ranging from
+            corn hole board sets to handcrafted signs, to laser cut items. Our
+            products are the perfect personalized gifts for you, your friends,
+            and your family.
           </p>
         </span>
         <div className="fatcards-container-6">

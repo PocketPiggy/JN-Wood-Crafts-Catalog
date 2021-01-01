@@ -36,10 +36,10 @@ export default function AirPlantHolder() {
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
-              <li> Measurement: *** </li>
+              <li> Measurements: 5" x 5" x 2.25" </li>
               <li> Made out of 1/8" wood</li>
-              <li> Hanger is not provided</li>
-              <li> Air plant is not provided</li>
+              <li> Hanger is not included</li>
+              <li> Air plant is not included</li>
               <li>Shipping and handling rates apply</li>
             </ul>
           </div>

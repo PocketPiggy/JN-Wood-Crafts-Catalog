@@ -17,6 +17,26 @@ export default function CheeseBoard() {
       original: "/images/page/wine/cheeseboards/cheese_slicer2.jpg",
       thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer2.jpg",
     },
+    {
+      original: "/images/page/wine/cheeseboards/IMG_0695.jpg",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0695.jpg",
+    },
+    {
+      original: "/images/page/wine/cheeseboards/IMG_0697.jpg",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0697.jpg",
+    },
+    {
+      original: "/images/page/wine/cheeseboards/IMG_0698.jpg",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0698.jpg",
+    },
+    {
+      original: "/images/page/wine/cheeseboards/IMG_0699.jpg",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0699.jpg",
+    },
+    {
+      original: "/images/page/wine/cheeseboards/IMG_0700.jpg",
+      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0700.jpg",
+    },
   ];
   return (
     <>
@@ -24,7 +44,7 @@ export default function CheeseBoard() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Cheese Board</h2>
-        <div className="product-price">$19.99</div>
+        <div className="product-price">$20</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
@@ -41,7 +61,7 @@ export default function CheeseBoard() {
             <p className="product-list-title">Product information:</p>
             <ul>
               <li>
-                Types of wood: Red oak, white oak, mahogany, cherry, maple,
+                Blends of wood: Red oak, white oak, mahogany, cherry, maple,
                 walnut, poplar
               </li>
               <li>Dimensions are approximately 9.5" x 4.5" x 3/4". </li>
