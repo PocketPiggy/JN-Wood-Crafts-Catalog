@@ -27,7 +27,7 @@ export default function CellPhoneHolder() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Cell Phone Holder</h2>
-        <div className="product-price">$19.99</div>
+        <div className="product-price">$20</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
