@@ -24,7 +24,7 @@ export default function MonogramShadowBox() {
       <div className="page-content">
         <ImageGallery items={images} />
         <h2 className="product-title">Monogram Shadow Box</h2>
-        <div className="product-price">$70</div>
+        <div className="product-price">$75</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>
