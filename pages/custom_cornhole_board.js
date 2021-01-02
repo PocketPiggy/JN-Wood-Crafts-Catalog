@@ -7,99 +7,187 @@ import Button from "react-bootstrap/Button";
 export default function CustomCornholeBoard() {
   const images = [
     {
-      original: "/images/page/cornhole/IMG_0371.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0371.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0376.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0376.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin1.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin1.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0379.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0379.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin2.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin2.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0363.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0363.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin3.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin3.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0365.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0365.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin4.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin4.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0356.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0356.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin5.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin5.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0325.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0325.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin6.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin6.jpg",
     },
     {
-      original: "/images/page/cornhole/IMG_0331.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/IMG_0331.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin7.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin7.jpg",
     },
     {
-      original: "/images/page/cornhole/dolphin.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/dolphin.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin8.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin8.jpg",
     },
     {
-      original: "/images/page/cornhole/dolphin1.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/dolphin1.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin9.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin9.jpg",
     },
     {
-      original: "/images/page/cornhole/dolphin2.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/dolphin2.jpg",
+      original: "/images/page/cornhole/dolphin/dolphin10.jpg",
+      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin10.jpg",
     },
     {
-      original: "/images/page/cornhole/dolphin3.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/dolphin3.jpg",
+      original: "/images/page/cornhole/pirate/pirate.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate.jpg",
     },
     {
-      original: "/images/page/cornhole/dolphin4.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/dolphin4.jpg",
+      original: "/images/page/cornhole/pirate/pirate1.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate1.jpg",
     },
     {
-      original: "/images/page/cornhole/ghog.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/ghog.jpg",
+      original: "/images/page/cornhole/pirate/pirate2.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate2.jpg",
     },
     {
-      original: "/images/page/cornhole/ghog1.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/ghog1.jpg",
+      original: "/images/page/cornhole/pirate/pirate3.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate3.jpg",
     },
     {
-      original: "/images/page/cornhole/ghog2.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/ghog2.jpg",
+      original: "/images/page/cornhole/pirate/pirate4.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate4.jpg",
     },
     {
-      original: "/images/page/cornhole/ghog3.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/ghog3.jpg",
+      original: "/images/page/cornhole/pirate/pirate5.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate5.jpg",
     },
     {
-      original: "/images/page/cornhole/shawn.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/shawn.jpg",
+      original: "/images/page/cornhole/pirate/pirate6.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate6.jpg",
     },
     {
-      original: "/images/page/cornhole/shawn1.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/shawn1.jpg",
+      original: "/images/page/cornhole/pirate/pirate7.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate7.jpg",
     },
     {
-      original: "/images/page/cornhole/shawn2.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/shawn2.jpg",
+      original: "/images/page/cornhole/pirate/pirate8.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate8.jpg",
     },
     {
-      original: "/images/page/cornhole/shawn3.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/shawn3.jpg",
+      original: "/images/page/cornhole/pirate/pirate9.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate9.jpg",
     },
     {
-      original: "/images/page/cornhole/shawn4.jpg",
-      thumbnail: "/images/page/cornhole/thumbs/shawn4.jpg",
+      original: "/images/page/cornhole/pirate/pirate10.jpg",
+      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate10.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash1.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash1.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash2.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash2.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash3.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash3.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash4.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash4.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash5.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash5.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash6.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash6.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash7.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash7.jpg",
+    },
+    {
+      original: "/images/page/cornhole/wash/wash8.jpg",
+      thumbnail: "/images/page/cornhole/wash/thumbs/wash8.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai1.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai1.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai2.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai2.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai3.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai3.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai4.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai4.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai5.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai5.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai6.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai6.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai7.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai7.jpg",
+    },
+    {
+      original: "/images/page/cornhole/samurai/samurai8.jpg",
+      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai8.jpg",
+    },
+    {
+      original: "/images/page/cornhole/greenhog/greenhog.jpg",
+      thumbnail: "/images/page/cornhole/greenhog/thumbs/greenhog.jpg",
+    },
+    {
+      original: "/images/page/cornhole/greenhog/greenhog1.jpg",
+      thumbnail: "/images/page/cornhole/greenhog/thumbs/greenhog1.jpg",
+    },
+    {
+      original: "/images/page/cornhole/greenhog/greenhog2.jpg",
+      thumbnail: "/images/page/cornhole/greenhog/thumbs/greenhog2.jpg",
+    },
+    {
+      original: "/images/page/cornhole/greenhog/greenhog3.jpg",
+      thumbnail: "/images/page/cornhole/greenhog/thumbs/greenhog3.jpg",
     },
   ];
   return (
     <>
       <Head></Head>
       <div className="page-content">
-        <ImageGallery items={images} />
+        <ImageGallery items={images} lazyLoad={true} />
         <h2 className="product-title">Customized Cornhole Board Set</h2>
         <div className="product-price">
           <Link href="/contact" passHref>
