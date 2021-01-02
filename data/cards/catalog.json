@@ -27,5 +27,12 @@
     "imgAlt": "Named ornament with trees on it, on top of a wine barrel.",
     "text": "We offer personalized gifts for the holidays.",
     "link": "/holidays/christmas"
+  },
+  "cornhole": {
+    "title": "Customized Cornhole Boards",
+    "imgSrc": "/images/page/cornhole/shawn.jpg",
+    "imgAlt": "Two ninja/samurai themed cornhole boards on a field of grass with leaves in the background.",
+    "text": "A one-of-a-kind, personalized custom set of cornhole boards.",
+    "link": "/custom_cornhole_board"
   }
 }

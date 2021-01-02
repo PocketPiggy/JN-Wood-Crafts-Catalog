@@ -29,11 +29,14 @@ export default function Index() {
             and your family.
           </p>
         </span>
-        <div className="fatcards-container-6">
+        <div className="fatcards-container-even">
           <FatCard cardData={SelectCard("catalog", "signs")} />
           <FatCard cardData={SelectCard("catalog", "wine")} />
           <FatCard cardData={SelectCard("catalog", "misc")} />
           <FatCard cardData={SelectCard("catalog", "christmas")} />
+        </div>
+        <div className="fatcards-container-odd">
+          <FatCard cardData={SelectCard("catalog", "cornhole")} />
         </div>
         <span className="buffy-the-buffer" />
       </div>

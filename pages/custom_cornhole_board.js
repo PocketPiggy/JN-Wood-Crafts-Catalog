@@ -94,15 +94,13 @@ export default function CustomCornholeBoard() {
       original: "/images/page/cornhole/shawn4.jpg",
       thumbnail: "/images/page/cornhole/thumbs/shawn4.jpg",
     },
-
   ];
   return (
     <>
       <Head></Head>
       <div className="page-content">
         <ImageGallery items={images} />
-        <h2 className="product-title">Custom Cornhole board Set</h2>
-        <div className="product-price">Message for a quote </div>
+        <h2 className="product-title">Customized Cornhole Board Set</h2>
         <div className="product-price">
           <Link href="/contact" passHref>
             <Button className="btn-next" id="contact-quote-btn">
@@ -113,31 +111,40 @@ export default function CustomCornholeBoard() {
         <div className="product-description-container">
           <div className="product-description">
             <p>
-              Needs a different more personalized product description like the
-              other products you guys did yesterday.
+              Ever thought about getting a set of Cornhole Boards? If so, why
+              not get boards that are made with the highest quality
+              craftsmanship!  They can be used for a tournament as well as
+              fierce backyard gameplay! I have had positive comments from people
+              who say, "these boards are too good to play on!" Our boards are a
+              unique difference!  No doubt, you will impress your friends, with
+              a one-of-a-kind customized board from JN Wood Crafts!  They are
+              constructed with birch plywood and designed with cross beams to
+              support the legs, as well as a built-in compartment to house all
+              your bags and other related items.
             </p>
             <p>
-              Each set includes a pair of corn hole boards; eight (8) bags; a
-              set of LED hole lights; a set of handles for easy carry; a 27 ft
-              regulation cable for accurate positioning; a set of customized top
-              board wraps of your choosing, set up scoreboard/drink holders,
-              score board/drink holder and customized wooden embellishments.
+              So, whether you're looking for wedding reception entertainment,
+              family get-together fun, company picnic/BBQ, waiting around with
+              friends/family during a half time sporting event, or you simply
+              want to play America's favorite backyard game, browse our handy
+              work and contact us for your own customized set, today!
             </p>
           </div>
           <div className="product-list-container">
             <p className="product-list-title">Product information:</p>
             <ul>
-              <li>Dimensions: X" x Y" x Z"</li>
-              <li>Wood type: Some wood type if needed</li>
+              <li>Dimensions: 24" W x 48" L x 4" H</li>
+              <li>Wood type: Birch plywood and common board </li>
               <li>LED lights with remote</li>
-              <li>Eight corn bags</li>
+              <li>Eight corn bags with a box compartment with lid to house all bags</li>
               <li>Comes with a 27 ft regulation cable</li>
-              <li>And some other things that the set comes with</li>
+              <li>Two carry handles and 4 stainless steel side latches</li>
+              <li>Customized wooden embellishments of your choice on tops, bottom and comparment box lid</li>
               <li>
                 As this item is customized and made to order, no refunds or
                 exchanges are allowed.
               </li>
-              <li>Local orders/pickup only (change this verbage?)</li>
+              <li>Local orders/pickup only</li>
             </ul>
           </div>
         </div>

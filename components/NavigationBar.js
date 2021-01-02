@@ -24,7 +24,9 @@ export default function NavigationBar() {
           </Link>
 
           <Link href="/contact" passHref>
-            <Nav.Link><b>Contact</b></Nav.Link>
+            <Nav.Link>
+              <b>Contact</b>
+            </Nav.Link>
           </Link>
 
           <Navbar.Toggle>
@@ -122,6 +124,12 @@ export default function NavigationBar() {
                   <NavDropdown.Item>DIY Christmas craft kit</NavDropdown.Item>
                 </Link>
               </NavDropdown>
+
+              <Link href="/custom_cornhole_board" passHref>
+                <Nav.Link>
+                  Custom Cornhole Boards
+                </Nav.Link>
+              </Link>
             </Nav>
           </Navbar.Collapse>
         </Navbar>
