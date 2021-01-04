@@ -24,7 +24,7 @@ export default function Index() {
           <p>
             Hi, we are James and Nancy. The "JN" behind the wood crafts. We are
             a veteran-owned and operated business. We offer items ranging from
-            corn hole board sets to handcrafted signs, to laser cut items. Our
+            cornhole board sets to handcrafted signs, to laser cut items. Our
             products are the perfect personalized gifts for you, your friends,
             and your family.
           </p>

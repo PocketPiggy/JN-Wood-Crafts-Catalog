@@ -34,8 +34,6 @@ body {
 
 div {
   &.page-container {
-    //min-height: 100%;
-    //position: relative;
   }
 
   &.page-content {
@@ -132,6 +130,10 @@ span {
   margin: 3rem 0 1rem 0;
 }
 
+.cards-container-leftover {
+  display: grid;
+}
+
 //  React Image Gallery
 
 .image-gallery {
@@ -206,36 +208,9 @@ button {
     height: 90vh !important;
   }
 
-  /*
-  .image-gallery-thumbnail:active,
-  .image-gallery-thumbnail:focus,
-  .image-gallery-thumbnail:hover {
-    width: 48px !important;
-    height: 48px !important;
-  }
-  */
-
   .image-gallery.content.fullscreen {
     height: 90vh !important;
   }
-
-  /*
-  button {
-    &.image-gallery-thumbnail {
-      width: 56px;
-      height: auto;
-    }
-  }
-
-.image-gallery-thumbnail-inner {
-  width: 50px;
-  height: auto;
-  img {
-    width: inherit;
-    height: auto;
-  }
-}
-*/
 
   .cards-container {
     display: grid;
