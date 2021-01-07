@@ -11,21 +11,30 @@
 //  Miscellaneous Crafts
 @import "./misc/index.scss";
 @import "./misc/cell_phone_holder.scss";
+@import "./misc/air_plant_holder.scss";
+@import "./misc/essential_oils_holder5ml.scss";
+@import "./misc/essential_oils_holder15ml.scss";
+
+//  Holidays
+
 
 //  Christmas Ornaments
-@import "./ornaments/index.scss";
-@import "./ornaments/2020_covid.scss";
-@import "./ornaments/2020_state.scss";
-@import "./ornaments/name.scss";
+@import "./holidays/christmas/index.scss";
+@import "./holidays/christmas/2020_covid_ornament.scss";
+@import "./holidays/christmas/custom_state_ornament.scss";
+@import "./holidays/christmas/personalized_name_ornament.scss";
+@import "./holidays/christmas/diy_christmas_craft_kit.scss";
 
 //  Signs
 @import "./signs/index.scss";
 @import "./signs/man_cave.scss";
-@import "./signs/welcome.scss";
-@import "./signs/parent_and_child.scss";
+@import "./signs/welcome_sign.scss";
+@import "./signs/dual_name_sign.scss";
 @import "./signs/split_letter_monogram.scss";
+@import "./signs/monogram_shadow_box.scss";
 
 //  Wine Accessories
 @import "./wine/index.scss";
 @import "./wine/wine_holder.scss";
 @import "./wine/cheese_board.scss";
+@import "./wine/wine_cheese_combo.scss";
