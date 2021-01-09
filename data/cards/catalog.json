@@ -21,12 +21,12 @@
     "text": "A little bit of this and a little bit of that. We are always creating new products.",
     "link": "/misc"
   },
-  "christmas": {
+  "holidays": {
     "title": "Holiday Gift Ideas",
     "imgSrc": "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
     "imgAlt": "Named ornament with trees on it, on top of a wine barrel.",
     "text": "We offer personalized gifts for the holidays.",
-    "link": "/holidays/christmas"
+    "link": "/holidays"
   },
   "cornhole": {
     "title": "Customized Cornhole Boards",
@@ -34,5 +34,19 @@
     "imgAlt": "Two ninja/samurai themed cornhole boards on a field of grass with leaves in the background.",
     "text": "A one-of-a-kind, personalized custom set of cornhole boards.",
     "link": "/custom_cornhole_board"
+  },
+  "christmas": {
+    "title": "Christmas",
+    "imgSrc": "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
+    "imgAlt": "Named ornament with trees on it, on top of a wine barrel.",
+    "text": "We offer personalized gifts for christmas.",
+    "link": "/holidays/christmas"
+  },
+  "valentines": {
+    "title": "Valentine's Day",
+    "imgSrc": "/images/page/valentines/mini_bottle_heart/Mini_Bottle_Heart_Stand.jpg",
+    "imgAlt": "Wooden heart stand holding alcohol.",
+    "text": "Personalized gifts for Valentine's day.",
+    "link": "/holidays/valentines"
   }
 }

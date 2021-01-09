@@ -33,7 +33,7 @@ export default function Index() {
           <FatCard cardData={SelectCard("catalog", "signs")} />
           <FatCard cardData={SelectCard("catalog", "wine")} />
           <FatCard cardData={SelectCard("catalog", "misc")} />
-          <FatCard cardData={SelectCard("catalog", "christmas")} />
+          <FatCard cardData={SelectCard("catalog", "holidays")} />
         </div>
         <div className="fatcards-container-odd">
           <FatCard cardData={SelectCard("catalog", "cornhole")} />
