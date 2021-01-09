@@ -11,6 +11,18 @@ export default function PersonalizedNameOrnament() {
       thumbnail:
         "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0596.jpg",
     },
+    {
+      original:
+        "/images/page/christmas/personalized_name_ornament/IMG_0153.jpg",
+      thumbnail:
+        "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0153.jpg",
+    },
+    {
+      original:
+        "/images/page/christmas/personalized_name_ornament/IMG_0154.jpg",
+      thumbnail:
+        "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0154.jpg",
+    },
   ];
   return (
     <>
