@@ -7,7 +7,7 @@ export default function ChristmasCollection() {
   return (
     <>
       <Head>
-        <title>JN Wood Crafts - Holidays</title>
+        <title>JN Wood Crafts - Christmas</title>
       </Head>
       <div className="page-content">
         <div className="logo-container">
@@ -24,9 +24,13 @@ export default function ChristmasCollection() {
           <Card
             cardData={SelectCard("christmas", "personalized-name-ornament")}
           />
+          <Card
+            cardData={SelectCard("christmas", "personalized-name-ornament-sl")}
+          />
           <Card cardData={SelectCard("christmas", "2020-covid-ornament")} />
           <Card cardData={SelectCard("christmas", "custom-state-ornament")} />
           <Card cardData={SelectCard("christmas", "diy-christmas-craft-kit")} />
+          <Card cardData={SelectCard("christmas", "stain-glass")} />
         </div>
         <span className="buffy-the-buffer" />
       </div>

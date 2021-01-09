@@ -1,6 +1,6 @@
 {
   "2020-covid-ornament": {
-    "title": "2020 Covid ornament",
+    "title": "2020 Covid Ornament",
     "imgSrc": "/images/page/christmas/2020_covid_ornament/ornament2020.jpg",
     "imgAlt": "Ornament on christmas tree.",
     "text": "Hmmmm, it's been a crazy year.",
@@ -8,7 +8,7 @@
     "aHref": "/holidays/christmas/2020_covid_ornament"
   },
   "custom-state-ornament": {
-    "title": "Custom State ornament",
+    "title": "Custom State Ornament",
     "imgSrc": "/images/page/christmas/custom_state_ornament/ornament_first_xmas_TN.jpg",
     "imgAlt": "Tennessee christmas ornament hanging on christmas tree.",
     "text": "Laser engraved with your choice of state.",
@@ -24,11 +24,27 @@
     "aHref": "/holidays/christmas/diy_christmas_craft_kit"
   },
   "personalized-name-ornament": {
-    "title": "Personalized Name ornament",
+    "title": "Personalized Name Ornament",
     "imgSrc": "/images/cards/personalized_name_ornament/IMG_0596-c.jpg",
     "imgAlt": "Named ornament with trees on it, on top of a wine barrel.",
     "text": "Personalized ornament made out of two layers.",
     "price": "$10",
     "aHref": "/holidays/christmas/personalized_name_ornament"
+  },
+  "personalized-name-ornament-sl": {
+    "title": "Personalized Name Ornament - Single Layer",
+    "imgSrc": "/images/page/christmas/personalized_name_ornament_sl/IMG_0151.jpg",
+    "imgAlt": "Named ornament with on a christmas tree.",
+    "text": "Single layer personalized ornament.",
+    "price": "$7",
+    "aHref": "/holidays/christmas/personalized_name_ornament_single_layer"
+  },
+  "stain-glass": {
+    "title": "Stain Glass Ornament",
+    "imgSrc": "/images/page/christmas/stain_glass/IMG_0148.jpg",
+    "imgAlt": "Mosiac of the navity scene.",
+    "text": "Mosiac of the navity scene.",
+    "price": "$10",
+    "aHref": "/holidays/christmas/stain_glass_ornament"
   }
 }

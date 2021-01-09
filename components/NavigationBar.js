@@ -98,16 +98,35 @@ export default function NavigationBar() {
                 </Link>
               </NavDropdown>
 
-              <NavDropdown title="Holidays" id="christmas-drop">
-                <Link href="/holidays/christmas" passHref>
-                  <NavDropdown.Item>All Holidays</NavDropdown.Item>
+              <NavDropdown title="Valentines" id="valentines-drop">
+                <Link href="/holidays/valentines" passHref>
+                  <NavDropdown.Item>All Valentines items</NavDropdown.Item>
                 </Link>
+                <Link href="/holidays/valentines/mini_bottle_heart_stand" passHref>
+                  <NavDropdown.Item>Mini Bottle Heart Stand</NavDropdown.Item>
+                </Link>
+              </NavDropdown>
+
+              <NavDropdown title="Christmas" id="christmas-drop">
+                <Link href="/holidays/christmas" passHref>
+                  <NavDropdown.Item>All Christmas items</NavDropdown.Item>
+                </Link>
+
                 <Link
                   href="/holidays/christmas/personalized_name_ornament"
                   passHref
                 >
                   <NavDropdown.Item>
                     Personalized Name ornament
+                  </NavDropdown.Item>
+                </Link>
+
+                <Link
+                  href="/holidays/christmas/personalized_name_ornament_single_layer"
+                  passHref
+                >
+                  <NavDropdown.Item>
+                    Personalized Name ornament single layer
                   </NavDropdown.Item>
                 </Link>
 
@@ -123,12 +142,14 @@ export default function NavigationBar() {
                 >
                   <NavDropdown.Item>DIY Christmas craft kit</NavDropdown.Item>
                 </Link>
+
+                <Link href="/holidays/christmas/stain_glass_ornament" passHref>
+                  <NavDropdown.Item>Stain glass ornament</NavDropdown.Item>
+                </Link>
               </NavDropdown>
 
               <Link href="/custom_cornhole_board" passHref>
-                <Nav.Link>
-                  Custom Cornhole Boards
-                </Nav.Link>
+                <Nav.Link>Custom Cornhole Boards</Nav.Link>
               </Link>
             </Nav>
           </Navbar.Collapse>
