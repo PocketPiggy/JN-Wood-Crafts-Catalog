@@ -13,10 +13,12 @@ export default function StainedGlassOrnament() {
       original: "/images/page/christmas/stain_glass/IMG_0148.jpg",
       thumbnail: "/images/page/christmas/stain_glass/thumbs/IMG_0148.jpg",
     },
+    /*
     {
       original: "/images/page/christmas/stain_glass/IMG_0150.jpg",
       thumbnail: "/images/page/christmas/stain_glass/thumbs/IMG_0150.jpg",
     },
+    */
   ];
   return (
     <>

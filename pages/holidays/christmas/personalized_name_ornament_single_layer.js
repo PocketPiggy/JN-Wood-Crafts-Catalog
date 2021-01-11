@@ -9,14 +9,16 @@ export default function PersonalizedNameOrnamentSL() {
       original:
         "/images/page/christmas/personalized_name_ornament_sl/IMG_0151.jpg",
       thumbnail:
-        "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0151.jpg",
-    },
+        "/images/page/christmas/personalized_name_ornament_sl/thumbs/IMG_0151.jpg"
+    }
+    /*
     {
       original:
-        "/images/page/christmas/personalized_name_ornament/IMG_0152.jpg",
+        "/images/page/christmas/personalized_name_ornament_sl/IMG_0152.jpg",
       thumbnail:
-        "/images/page/christmas/personalized_name_ornament/thumbs/IMG_0152.jpg",
+        "/images/page/christmas/personalized_name_ornament_sl/thumbs/IMG_0152.jpg",
     },
+    */
   ];
   return (
     <>
