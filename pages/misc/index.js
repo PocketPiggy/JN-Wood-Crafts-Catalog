@@ -22,6 +22,7 @@ export default function MiscellaneousCollection() {
         </p>
         <div className="cards-container">
           <Card cardData={SelectCard("misc", "cell-phone-holder")} />
+          <Card cardData={SelectCard("misc", "grilled-cedar-cotd")} />
           <Card cardData={SelectCard("misc", "air-plant-holder")} />
           <Card cardData={SelectCard("misc", "essential-oils-15ml")} />
           <Card cardData={SelectCard("misc", "essential-oils-5ml")} />

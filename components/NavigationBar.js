@@ -78,10 +78,14 @@ export default function NavigationBar() {
 
               <NavDropdown title="Miscellaneous Crafts" id="misc-drop">
                 <Link href="/misc" passHref>
-                  <NavDropdown.Item>Miscellaneous</NavDropdown.Item>
+                  <NavDropdown.Item>All Miscellaneous</NavDropdown.Item>
                 </Link>
                 <Link href="/misc/cell_phone_holder" passHref>
                   <NavDropdown.Item>Cell Phone holders</NavDropdown.Item>
+                </Link>
+                <Link href="/misc/grilled_cedar_plank_catch_of_the_day" passHref>
+                  <NavDropdown.Item>Grilled Cedar Plank - Catch of the Day</NavDropdown.Item>
+                  {/*<NavDropdown.Item>Grilled Cedar Plank - COTD</NavDropdown.Item>*/}
                 </Link>
                 <Link href="/misc/air_plant_holder" passHref>
                   <NavDropdown.Item>Air Plant holder</NavDropdown.Item>
@@ -102,7 +106,10 @@ export default function NavigationBar() {
                 <Link href="/holidays/valentines" passHref>
                   <NavDropdown.Item>All Valentines items</NavDropdown.Item>
                 </Link>
-                <Link href="/holidays/valentines/mini_bottle_heart_stand" passHref>
+                <Link
+                  href="/holidays/valentines/mini_bottle_heart_stand"
+                  passHref
+                >
                   <NavDropdown.Item>Mini Bottle Heart Stand</NavDropdown.Item>
                 </Link>
               </NavDropdown>
