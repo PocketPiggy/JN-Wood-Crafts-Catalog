@@ -6,19 +6,9 @@ import ImageGallery from "react-image-gallery";
 export default function StainedGlassOrnament() {
   const images = [
     {
-      original: "/images/page/christmas/stain_glass/IMG_0014.jpg",
-      thumbnail: "/images/page/christmas/stain_glass/thumbs/IMG_0014.jpg",
-    },
-    {
       original: "/images/page/christmas/stain_glass/IMG_0148.jpg",
       thumbnail: "/images/page/christmas/stain_glass/thumbs/IMG_0148.jpg",
     },
-    /*
-    {
-      original: "/images/page/christmas/stain_glass/IMG_0150.jpg",
-      thumbnail: "/images/page/christmas/stain_glass/thumbs/IMG_0150.jpg",
-    },
-    */
   ];
   return (
     <>

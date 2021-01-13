@@ -19,28 +19,12 @@ export default function CustomCornholeBoard() {
       thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin2.jpg",
     },
     {
-      original: "/images/page/cornhole/dolphin/dolphin3.jpg",
-      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin3.jpg",
-    },
-    {
-      original: "/images/page/cornhole/dolphin/dolphin4.jpg",
-      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin4.jpg",
-    },
-    {
       original: "/images/page/cornhole/dolphin/dolphin5.jpg",
       thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin5.jpg",
     },
     {
       original: "/images/page/cornhole/dolphin/dolphin6.jpg",
       thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin6.jpg",
-    },
-    {
-      original: "/images/page/cornhole/dolphin/dolphin7.jpg",
-      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin7.jpg",
-    },
-    {
-      original: "/images/page/cornhole/dolphin/dolphin8.jpg",
-      thumbnail: "/images/page/cornhole/dolphin/thumbs/dolphin8.jpg",
     },
     {
       original: "/images/page/cornhole/dolphin/dolphin9.jpg",
@@ -53,10 +37,6 @@ export default function CustomCornholeBoard() {
     {
       original: "/images/page/cornhole/pirate/pirate.jpg",
       thumbnail: "/images/page/cornhole/pirate/thumbs/pirate.jpg",
-    },
-    {
-      original: "/images/page/cornhole/pirate/pirate1.jpg",
-      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate1.jpg",
     },
     {
       original: "/images/page/cornhole/pirate/pirate2.jpg",
@@ -79,14 +59,6 @@ export default function CustomCornholeBoard() {
       thumbnail: "/images/page/cornhole/pirate/thumbs/pirate6.jpg",
     },
     {
-      original: "/images/page/cornhole/pirate/pirate7.jpg",
-      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate7.jpg",
-    },
-    {
-      original: "/images/page/cornhole/pirate/pirate8.jpg",
-      thumbnail: "/images/page/cornhole/pirate/thumbs/pirate8.jpg",
-    },
-    {
       original: "/images/page/cornhole/pirate/pirate9.jpg",
       thumbnail: "/images/page/cornhole/pirate/thumbs/pirate9.jpg",
     },
@@ -101,10 +73,6 @@ export default function CustomCornholeBoard() {
     {
       original: "/images/page/cornhole/wash/wash1.jpg",
       thumbnail: "/images/page/cornhole/wash/thumbs/wash1.jpg",
-    },
-    {
-      original: "/images/page/cornhole/wash/wash2.jpg",
-      thumbnail: "/images/page/cornhole/wash/thumbs/wash2.jpg",
     },
     {
       original: "/images/page/cornhole/wash/wash3.jpg",
@@ -123,16 +91,8 @@ export default function CustomCornholeBoard() {
       thumbnail: "/images/page/cornhole/wash/thumbs/wash6.jpg",
     },
     {
-      original: "/images/page/cornhole/wash/wash7.jpg",
-      thumbnail: "/images/page/cornhole/wash/thumbs/wash7.jpg",
-    },
-    {
       original: "/images/page/cornhole/wash/wash8.jpg",
       thumbnail: "/images/page/cornhole/wash/thumbs/wash8.jpg",
-    },
-    {
-      original: "/images/page/cornhole/samurai/samurai.jpg",
-      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai.jpg",
     },
     {
       original: "/images/page/cornhole/samurai/samurai1.jpg",
@@ -147,20 +107,12 @@ export default function CustomCornholeBoard() {
       thumbnail: "/images/page/cornhole/samurai/thumbs/samurai3.jpg",
     },
     {
-      original: "/images/page/cornhole/samurai/samurai4.jpg",
-      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai4.jpg",
-    },
-    {
       original: "/images/page/cornhole/samurai/samurai5.jpg",
       thumbnail: "/images/page/cornhole/samurai/thumbs/samurai5.jpg",
     },
     {
       original: "/images/page/cornhole/samurai/samurai6.jpg",
       thumbnail: "/images/page/cornhole/samurai/thumbs/samurai6.jpg",
-    },
-    {
-      original: "/images/page/cornhole/samurai/samurai7.jpg",
-      thumbnail: "/images/page/cornhole/samurai/thumbs/samurai7.jpg",
     },
     {
       original: "/images/page/cornhole/samurai/samurai8.jpg",
@@ -177,10 +129,6 @@ export default function CustomCornholeBoard() {
     {
       original: "/images/page/cornhole/greenhog/greenhog2.jpg",
       thumbnail: "/images/page/cornhole/greenhog/thumbs/greenhog2.jpg",
-    },
-    {
-      original: "/images/page/cornhole/greenhog/greenhog3.jpg",
-      thumbnail: "/images/page/cornhole/greenhog/thumbs/greenhog3.jpg",
     },
   ];
   return (

@@ -44,7 +44,7 @@ export default function GrilledCedarPlankCatchOfTheDay() {
         <h2 className="product-title">
           Grilled Cedar Plank - Catch of the Day
         </h2>
-        <div className="product-price">$15 for 3</div>
+        <div className="product-price">3 for $15</div>
         <div className="product-description-container">
           <div className="product-description">
             <p>

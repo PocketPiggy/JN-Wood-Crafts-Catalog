@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Head from "next/head";
+import Button from "react-bootstrap/Button";
 import FatCard from "../components/FatCard";
 import SelectCard from "../components/SelectCard";
 
@@ -26,8 +27,14 @@ export default function Index() {
             a veteran-owned and operated business. We offer items ranging from
             cornhole board sets to handcrafted signs, to laser cut items. Our
             products are the perfect personalized gifts for you, your friends,
-            and your family.
+            and your family. Currently, this is an informational catalog. Please
+            fill out our contact form to get your order started.
           </p>
+          <Link href="/contact" passHref>
+            <Button className="btn-next" id="contact-quote-btn" name='contact-form'>
+              Contact form
+            </Button>
+          </Link>
         </span>
         <div className="fatcards-container-even">
           <FatCard cardData={SelectCard("catalog", "signs")} />

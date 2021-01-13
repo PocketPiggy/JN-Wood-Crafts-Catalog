@@ -11,11 +11,6 @@ export default function CellPhoneHolder() {
         "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder1.jpg",
     },
     {
-      original: "/images/page/misc/cellphoneholder/cell_phone_holder.jpg",
-      thumbnail:
-        "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder.jpg",
-    },
-    {
       original: "/images/page/misc/cellphoneholder/cell_phone_holder2.jpg",
       thumbnail:
         "/images/page/misc/cellphoneholder/thumbs/cell_phone_holder2.jpg",
@@ -23,35 +18,6 @@ export default function CellPhoneHolder() {
     {
       original: "/images/page/misc/cellphoneholder/IMG_0551.jpg",
       thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0551.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0553.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0553.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0554.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0554.jpg",
-    },
-
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0555.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0555.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0556.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0556.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0557.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0557.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0559.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0559.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0560.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0560.jpg",
     },
     {
       original: "/images/page/misc/cellphoneholder/IMG_0597.jpg",
@@ -68,10 +34,6 @@ export default function CellPhoneHolder() {
     {
       original: "/images/page/misc/cellphoneholder/IMG_0790.jpg",
       thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0790.jpg",
-    },
-    {
-      original: "/images/page/misc/cellphoneholder/IMG_0791.jpg",
-      thumbnail: "/images/page/misc/cellphoneholder/thumbs/IMG_0791.jpg",
     },
   ];
   return (

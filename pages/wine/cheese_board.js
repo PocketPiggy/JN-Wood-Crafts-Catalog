@@ -10,32 +10,16 @@ export default function CheeseBoard() {
       thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer.jpg",
     },
     {
-      original: "/images/page/wine/cheeseboards/cheese_slicer1.jpg",
-      thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer1.jpg",
-    },
-    {
       original: "/images/page/wine/cheeseboards/cheese_slicer2.jpg",
       thumbnail: "/images/page/wine/cheeseboards/thumbs/cheese_slicer2.jpg",
-    },
-    {
-      original: "/images/page/wine/cheeseboards/IMG_0695.jpg",
-      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0695.jpg",
     },
     {
       original: "/images/page/wine/cheeseboards/IMG_0697.jpg",
       thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0697.jpg",
     },
     {
-      original: "/images/page/wine/cheeseboards/IMG_0698.jpg",
-      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0698.jpg",
-    },
-    {
       original: "/images/page/wine/cheeseboards/IMG_0699.jpg",
       thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0699.jpg",
-    },
-    {
-      original: "/images/page/wine/cheeseboards/IMG_0700.jpg",
-      thumbnail: "/images/page/wine/cheeseboards/thumbs/IMG_0700.jpg",
     },
   ];
   return (

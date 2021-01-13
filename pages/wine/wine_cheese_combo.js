@@ -21,10 +21,6 @@ export default function WineCheeseCombo() {
       original: "/images/page/wine/winecheesecombo/IMG_0694.jpg",
       thumbnail: "/images/page/wine/winecheesecombo/thumbs/IMG_0694.jpg",
     },
-    {
-      original: "/images/page/wine/winecheesecombo/IMG_0691.jpg",
-      thumbnail: "/images/page/wine/winecheesecombo/thumbs/IMG_0691.jpg",
-    }
   ];
   return (
     <>

@@ -6,10 +6,6 @@ import ImageGallery from "react-image-gallery";
 export default function SplitLetterMonogram() {
   const images = [
     {
-      original: "/images/page/signs/split_letter_monogram/monogram.jpg",
-      thumbnail: "/images/page/signs/split_letter_monogram/thumbs/monogram.jpg",
-    },
-    {
       original: "/images/page/signs/split_letter_monogram/monogram1.jpg",
       thumbnail:
         "/images/page/signs/split_letter_monogram/thumbs/monogram1.jpg",

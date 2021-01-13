@@ -22,28 +22,12 @@ export default function WineBottleHolder() {
       thumbnail: "/images/page/wine/wineholders/thumbs/wine_holder3.jpg",
     },
     {
-      original: "/images/page/wine/wineholders/IMG_0704.jpg",
-      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0704.jpg",
-    },
-    {
       original: "/images/page/wine/wineholders/IMG_0707.jpg",
       thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0707.jpg",
     },
     {
       original: "/images/page/wine/wineholders/IMG_0710.jpg",
       thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0710.jpg",
-    },
-    {
-      original: "/images/page/wine/wineholders/IMG_0711.jpg",
-      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0711.jpg",
-    },
-    {
-      original: "/images/page/wine/wineholders/IMG_0712.jpg",
-      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0712.jpg",
-    },
-    {
-      original: "/images/page/wine/wineholders/IMG_0714.jpg",
-      thumbnail: "/images/page/wine/wineholders/thumbs/IMG_0714.jpg",
     },
     {
       original: "/images/page/wine/wineholders/IMG_0715.jpg",
