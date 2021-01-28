@@ -37,13 +37,15 @@ export default function Index() {
           </Link>
         </span>
         <div className="fatcards-container-even">
+          <FatCard cardData={SelectCard("catalog", "whats-new")} />
           <FatCard cardData={SelectCard("catalog", "signs")} />
           <FatCard cardData={SelectCard("catalog", "wine")} />
           <FatCard cardData={SelectCard("catalog", "misc")} />
           <FatCard cardData={SelectCard("catalog", "holidays")} />
+          <FatCard cardData={SelectCard("catalog", "cornhole")} />
         </div>
         <div className="fatcards-container-odd">
-          <FatCard cardData={SelectCard("catalog", "cornhole")} />
+          <FatCard cardData={SelectCard("catalog", "crafters-showcase")} />
         </div>
         <span className="buffy-the-buffer" />
       </div>

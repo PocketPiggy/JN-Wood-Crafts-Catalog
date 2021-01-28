@@ -15,7 +15,6 @@
     "price": "$20",
     "aHref": "/misc/cell_phone_holder"
   },
-
   "essential-oils-15ml": {
     "title": "Essential Oils Holder - 15ml",
     "imgSrc": "/images/page/misc/essentialoils15ml/IMG_0009.jpg",
@@ -39,5 +38,21 @@
     "text": "Personalized grilling cedar plank.",
     "price": "3 for $15",
     "aHref": "/misc/grilled_cedar_plank_catch_of_the_day"
+  },
+  "nurse-corp-leaf": {
+    "title": "Nurse Corps Oak Leaf",
+    "imgSrc": "/images/page/misc/navy_nurse_corps_fig_insignia/navy_nurse_insignia.jpg",
+    "imgAlt": "Wooden oak leaf navy nurse corps insignia on wooden barrel.",
+    "text": "Mattis nunc sed blandit libero volutpat viviamus.",
+    "price": "$30",
+    "aHref": "/misc/nurse_corps_oak_leaf"
+  },
+  "magnetic-knife-holder": {
+    "title": "Magnetic Knife Holder",
+    "imgSrc": "/images/page/misc/custom_magnetic_knife_holder/mag_knife_holder.jpg",
+    "imgAlt": "Knives attached to a magnetic knife holder on a wine barrel.",
+    "text": "Mattis nunc sed blandit libero volutpat viviamus.",
+    "price": "$38",
+    "aHref": "/misc/magnetic_knife_holder"
   }
 }

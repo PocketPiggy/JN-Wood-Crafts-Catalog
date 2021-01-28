@@ -40,6 +40,12 @@ export default function NavigationBar() {
 
           <Navbar.Collapse>
             <Nav>
+              <Link href="/whats_new" passHref>
+                <Nav.Link>
+                  What's new
+                  </Nav.Link>
+              </Link>
+
               <NavDropdown title="Signs" id="signs-drop">
                 <Link href="/signs" passHref>
                   <NavDropdown.Item>Sign collection</NavDropdown.Item>
@@ -83,6 +89,12 @@ export default function NavigationBar() {
                 <Link href="/misc/cell_phone_holder" passHref>
                   <NavDropdown.Item>Cell Phone holders</NavDropdown.Item>
                 </Link>
+                <Link href="/misc/magnetic_knife_holder" passHref>
+                  <NavDropdown.Item>Magnetic Knife Holder</NavDropdown.Item>
+                </Link>
+                <Link href="/misc/nurse_corps_oak_leaf" passHref>
+                  <NavDropdown.Item>Nurse Corps Oak Leaf</NavDropdown.Item>
+                </Link>
                 <Link href="/misc/grilled_cedar_plank_catch_of_the_day" passHref>
                   <NavDropdown.Item>Grilled Cedar Plank - Catch of the Day</NavDropdown.Item>
                   {/*<NavDropdown.Item>Grilled Cedar Plank - COTD</NavDropdown.Item>*/}
@@ -112,6 +124,13 @@ export default function NavigationBar() {
                 >
                   <NavDropdown.Item>Mini Bottle Heart Stand</NavDropdown.Item>
                 </Link>
+                <Link
+                  href="/holidays/valentines/love_sign"
+                  passHref
+                >
+                  <NavDropdown.Item>Love Sign</NavDropdown.Item>
+                </Link>
+
               </NavDropdown>
 
               <NavDropdown title="Christmas" id="christmas-drop">

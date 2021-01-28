@@ -35,6 +35,20 @@
     "text": "A one-of-a-kind, personalized custom set of cornhole boards.",
     "link": "/custom_cornhole_board"
   },
+  "whats-new": {
+    "title": "What's New",
+    "imgSrc": "/images/page/whats_new/navy_nurse_corps_fig_insignia/navy_nurse_insignia.jpg",
+    "imgAlt": "Wooden lasercut of navy nurse corps leaf on top of a wine barrel.",
+    "text": "Mattis nunc sed blandit libero volutpat viviamus.",
+    "link": "/whats_new"
+  },
+  "crafters-showcase": {
+    "title": "Crafter's Showcase",
+    "imgSrc": "/images/page/crafters_showcase/beads_by_barb/beads_by_barb5.jpg",
+    "imgAlt": "A pair of wooden earrings.",
+    "text": "Featuring another business using our products.",
+    "link": "/crafters_showcase"
+  },
   "christmas": {
     "title": "Christmas",
     "imgSrc": "/images/page/christmas/personalized_name_ornament/IMG_0596.jpg",
